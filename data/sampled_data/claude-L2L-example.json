@@ -1,0 +1,198 @@
+{
+    "terminated": [
+        true
+    ],
+    "case": [
+        "Agent2-ACCEPT-DEAL"
+    ],
+    "final_deal": [
+        {
+            "REF": "None",
+            "SNR": "remove",
+            "BNR": "remove",
+            "SAP": "apologize",
+            "BAP": "not apologize"
+        }
+    ],
+    "agent1_final_score": [
+        50
+    ],
+    "agent2_final_score": [
+        65
+    ],
+    "rounds": [
+        8
+    ],
+    "turns": [
+        16
+    ],
+    "personality": [
+        [
+            {
+                "EXT": {
+                    "High": [
+                        "friendly",
+                        "assertive",
+                        "cheerful"
+                    ]
+                },
+                "AGR": {
+                    "High": [
+                        "very humble",
+                        "very honest",
+                        "very agreeable"
+                    ]
+                },
+                "CON": {
+                    "High": [
+                        "responsible",
+                        "practical",
+                        "hardworking"
+                    ]
+                },
+                "NEU": {
+                    "High": [
+                        "a bit anxious",
+                        "a bit irritable",
+                        "a bit impulsive"
+                    ]
+                },
+                "OPE": {
+                    "High": [
+                        "very aesthetic",
+                        "very creative",
+                        "very curious"
+                    ]
+                }
+            },
+            {
+                "EXT": {
+                    "High": [
+                        "a bit adventurous and daring",
+                        "a bit extraverted",
+                        "a bit bold"
+                    ]
+                },
+                "AGR": {
+                    "High": [
+                        "humble",
+                        "altruistic",
+                        "generous"
+                    ]
+                },
+                "CON": {
+                    "High": [
+                        "a bit self-efficacious",
+                        "a bit self-disciplined",
+                        "a bit thrifty"
+                    ]
+                },
+                "NEU": {
+                    "High": [
+                        "a bit tense",
+                        "a bit depressed",
+                        "a bit impulsive"
+                    ]
+                },
+                "OPE": {
+                    "High": [
+                        "a bit reflective",
+                        "a bit creative",
+                        "a bit curious"
+                    ]
+                }
+            }
+        ]
+    ],
+    "issue_importance": [
+        [
+            [
+                35,
+                5,
+                15,
+                45
+            ],
+            [
+                25,
+                10,
+                10,
+                55
+            ]
+        ]
+    ],
+    "conversation": [
+        [
+            {
+                "role": "Agent2",
+                "content": "I wanted a real Kobe jersey for my sick nephew, and you sent a generic one then posted lies about me when I called it out."
+            },
+            {
+                "role": "Agent1",
+                "content": "Look, the listing clearly stated it was a generic replica Lakers Championship jersey, not a specific player jersey, and I shipped exactly what was advertised - all sales are final as my policy states."
+            },
+            {
+                "role": "Agent2",
+                "content": "Your site specifically advertised it as a Kobe Bryant jersey before you changed it, and your false review calling me a \"fraud\" is damaging my reputation."
+            },
+            {
+                "role": "Agent1",
+                "content": "I never changed any listing, and I have screenshots to prove it was always listed as a generic championship jersey - I only posted that review to warn other sellers after you falsely called me a \"LIAR AND A CROOK\" in your review."
+            },
+            {
+                "role": "Agent2",
+                "content": "I need you to remove your false review about me and apologize - it's hurting my reputation on the platform where I've always maintained excellent standing."
+            },
+            {
+                "role": "Agent1",
+                "content": "I might consider removing my review if you remove yours first and apologize for falsely claiming I'm a \"LIAR AND A CROOK\" when I simply sold exactly what was advertised."
+            },
+            {
+                "role": "Agent2",
+                "content": "I'm willing to soften my review's language, but I need you to apologize publicly for your false claims about me and remove your harmful review first."
+            },
+            {
+                "role": "Agent1",
+                "content": "I value my reputation too, so here's what I can offer - I'll remove my review if you completely remove yours and post an apology for the false accusations, but I won't be issuing any refund for a correctly advertised product."
+            },
+            {
+                "role": "Agent2",
+                "content": "Your apology is more important to me than a refund - I'll remove my review if you both remove yours and post a public apology acknowledging your mistake."
+            },
+            {
+                "role": "Agent1",
+                "content": "I'll meet you halfway - I can remove my review and apologize for the tone, but not for the content since I stand by my experience, and in return, I need you to completely remove your review and apologize for calling me a \"LIAR AND A CROOK.\""
+            },
+            {
+                "role": "Agent2",
+                "content": "I can accept removing my review completely if you fully apologize for both tone and content in your public statement - the apology is what matters most to me at this point."
+            },
+            {
+                "role": "Agent1",
+                "content": "Listen, I'm willing to apologize for how I responded, but not admit to false advertising since the listing was always accurate - if you remove your review completely, I'll remove mine and issue this apology, but still no refund on a correctly advertised item."
+            },
+            {
+                "role": "Agent2",
+                "content": "I can agree to no refund as long as your apology clearly states you were mistaken about calling me names and acknowledges my character wasn't at fault."
+            },
+            {
+                "role": "Agent1",
+                "content": "I can apologize for using harsh language and acknowledge that I reacted emotionally, but I won't claim the listing was inaccurate - if you completely remove your review, I'll remove mine and post this clarified apology with no refund required."
+            },
+            {
+                "role": "Agent2",
+                "content": "That works for me - I'll completely remove my review if you remove yours and post that apology acknowledging your emotional reaction was unjustified."
+            },
+            {
+                "role": "Agent1",
+                "content": "SUBMISSION: {\"REF\": \"None\", \"SNR\": \"remove\", \"BNR\": \"remove\", \"SAP\": \"apologize\", \"BAP\": \"not apologize\"}"
+            },
+            {
+                "role": "Agent2",
+                "content": "ACCEPT-DEAL"
+            }
+        ]
+    ],
+    "walked_away_first": [
+        "No walk-away"
+    ]
+}

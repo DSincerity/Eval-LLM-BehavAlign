@@ -1,0 +1,102 @@
+[
+  {
+    "speaker": "Speaker2",
+    "sentence": "I need you to remove your false review about me and apologize for lying about the jersey.",
+    "strategy": "PROPOSAL"
+  },
+  {
+    "speaker": "Speaker1",
+    "sentence": "I didn't lie about anything!",
+    "strategy": "RESIDUAL"
+  },
+  {
+    "speaker": "Speaker1",
+    "sentence": "Your review calling me a 'LIAR AND CROOK' is completely unfair when the listing clearly stated it was a generic Lakers championship jersey, not a Kobe Bryant specific one.",
+    "strategy": "RIGHTS"
+  },
+  {
+    "speaker": "Speaker2",
+    "sentence": "Your listing specifically mentioned Kobe Bryant which you later removed, and my terminally ill nephew was devastated when he received the wrong jersey.",
+    "strategy": "FACTS"
+  },
+  {
+    "speaker": "Speaker1",
+    "sentence": "I never mentioned Kobe Bryant in my listing - you're making that up to guilt me into a refund!",
+    "strategy": "FACTS"
+  },
+  {
+    "speaker": "Speaker1",
+    "sentence": "I need you to remove your damaging review as it's hurting my business with false accusations.",
+    "strategy": "PROPOSAL"
+  },
+  {
+    "speaker": "Speaker2",
+    "sentence": "I have screenshots proving your listing mentioned Kobe, but I'm willing to remove my review if you remove yours, apologize publicly, and offer a partial refund for the misleading product.",
+    "strategy": "PROPOSAL"
+  },
+  {
+    "speaker": "Speaker1",
+    "sentence": "There are no screenshots because I never listed it as Kobe, but I'm willing to consider a partial refund if you remove your review first - that's my priority since it's damaging my reputation unfairly.",
+    "strategy": "CONCESSION"
+  },
+  {
+    "speaker": "Speaker2",
+    "sentence": "I'll agree to remove my review if you remove yours first, apologize publicly, and offer a partial refund since this was meant for my sick nephew.",
+    "strategy": "CONCESSION"
+  },
+  {
+    "speaker": "Speaker1",
+    "sentence": "I can agree to a partial refund and removing my review, but I won't apologize for something I didn't do - your review removal has to happen first since that's causing real damage to my business.",
+    "strategy": "CONCESSION"
+  },
+  {
+    "speaker": "Speaker2",
+    "sentence": "I can accept removing both reviews and a partial refund, but I need your apology since your false review damaged my reputation too.",
+    "strategy": "CONCESSION"
+  },
+  {
+    "speaker": "Speaker1",
+    "sentence": "I care most about getting your negative review removed - so I'll agree to a partial refund and removing my review, but I can't apologize for warning other sellers about this interaction.",
+    "strategy": "CONCESSION"
+  },
+  {
+    "speaker": "Speaker2",
+    "sentence": "The apology matters because you called me a 'FRAUD' publicly - if you apologize, I'll remove my review and we can both move forward with the partial refund.",
+    "strategy": "INTEREST"
+  },
+  {
+    "speaker": "Speaker1",
+    "sentence": "I didn't call you a 'FRAUD' - I simply warned other sellers about our interaction.",
+    "strategy": "FACTS"
+  },
+  {
+    "speaker": "Speaker1",
+    "sentence": "I'll offer a partial refund and remove my review, but instead of me apologizing, could you update your review to acknowledge the listing didn't specify Kobe?",
+    "strategy": "PROPOSAL"
+  },
+  {
+    "speaker": "Speaker2",
+    "sentence": "I can't update my review as the platform doesn't allow editing, but I'll remove it entirely if you remove yours, issue the partial refund, and apologize for your false accusations.",
+    "strategy": "CONCESSION"
+  },
+  {
+    "speaker": "Speaker1",
+    "sentence": "Since reviews can't be edited, I'll compromise - I'll apologize and remove my review if you remove yours first, and I'll issue a partial refund afterward to settle this matter fairly.",
+    "strategy": "CONCESSION"
+  },
+  {
+    "speaker": "Speaker2",
+    "sentence": "I accept those terms.",
+    "strategy": "RESIDUAL"
+  },
+  {
+    "speaker": "Speaker2",
+    "sentence": "SUBMISSION: {\"REF\": \"partial\", \"SNR\": \"remove\", \"BNR\": \"remove\", \"SAP\": \"apologize\", \"BAP\": \"not apologize\"}",
+    "strategy": "NULL"
+  },
+  {
+    "speaker": "Speaker1",
+    "sentence": "ACCEPT-DEAL",
+    "strategy": "NULL"
+  }
+]

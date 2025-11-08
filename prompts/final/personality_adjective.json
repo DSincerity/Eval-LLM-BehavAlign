@@ -1,0 +1,135 @@
+{
+  "EXT": {
+      "Low": [
+          "unfriendly",
+          "introverted",
+          "silent",
+          "timid",
+          "unassertive",
+          "inactive",
+          "unenergetic",
+          "unadventurous",
+          "gloomy"
+      ],
+      "High": [
+          "friendly",
+          "extraverted",
+          "talkative",
+          "bold",
+          "assertive",
+          "active",
+          "energetic",
+          "adventurous and daring",
+          "cheerful"
+      ]
+  },
+  "AGR": {
+      "Low": [
+          "distrustful",
+          "immoral",
+          "dishonest",
+          "unkind",
+          "stingy",
+          "unaltruistic",
+          "uncooperative",
+          "self-important",
+          "unsympathetic",
+          "selfish",
+          "disagreeable"
+      ],
+      "High": [
+          "trustful",
+          "moral",
+          "honest",
+          "kind",
+          "generous",
+          "altruistic",
+          "cooperative",
+          "humble",
+          "sympathetic",
+          "unselfish",
+          "agreeable"
+      ]
+  },
+  "CON": {
+      "Low": [
+          "unsure",
+          "messy",
+          "irresponsible",
+          "lazy",
+          "undisciplined",
+          "impractical",
+          "extravagant",
+          "disorganized",
+          "negligent",
+          "careless"
+      ],
+      "High": [
+          "self-efficacious",
+          "orderly",
+          "responsible",
+          "hardworking",
+          "self-disciplined",
+          "practical",
+          "thrifty",
+          "organized",
+          "conscientious",
+          "thorough"
+      ]
+  },
+  "NEU": {
+      "Low": [
+          "relaxed",
+          "at ease",
+          "easygoing",
+          "calm",
+          "patient",
+          "happy",
+          "unselfconscious",
+          "level-headed",
+          "contented",
+          "emotionally stable"
+      ],
+      "High": [
+          "tense",
+          "nervous",
+          "anxious",
+          "angry",
+          "irritable",
+          "depressed",
+          "self-conscious",
+          "impulsive",
+          "discontented",
+          "emotionally unstable"
+      ]
+  },
+  "OPE": {
+      "Low": [
+          "unimaginative",
+          "uncreative",
+          "artistically unappreciative",
+          "unaesthetic",
+          "unreflective",
+          "emotionally closed",
+          "predictable",
+          "unintelligent",
+          "unanalytical",
+          "unsophisticated",
+          "socially conservative"
+      ],
+      "High": [
+          "imaginative",
+          "creative",
+          "artistically appreciative",
+          "aesthetic",
+          "reflective",
+          "emotionally aware",
+          "curious",
+          "spontaneous",
+          "intelligent",
+          "analytical",
+          "sophisticated",
+          "socially progressive"
+      ]
+  }
+}

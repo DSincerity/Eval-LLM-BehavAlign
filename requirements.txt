@@ -1,0 +1,23 @@
+# API clients
+tenacity
+openai==0.28.0
+anthropic
+google-generativeai
+
+# Data science & numerical computing
+numpy
+scipy
+pandas
+
+# NLP & text analysis
+nltk
+gensim
+POT
+
+# Evaluation metrics
+dtaidistance
+tqdm
+
+# Deep learning & transformers (for emotion annotation)
+torch
+transformers

@@ -1,0 +1,4268 @@
+{
+  "irp_kodis_2874.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hi",
+      "strategy": [
+        "PROCEDURAL"
+      ],
+      "emotion": {
+        "neutral": 0.9853740930557251,
+        "joy": 0.007507398258894682,
+        "surprise": 0.0005108682671561837,
+        "anger": 0.0029007638804614544,
+        "sadness": 0.0031047712545841932,
+        "disgust": 0.0002783973759505898,
+        "fear": 0.00032375697628594935
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hello I hope you are well. how can I help",
+      "strategy": [
+        "PROCEDURAL",
+        "PROCEDURAL"
+      ],
+      "emotion": {
+        "neutral": 0.9167615175247192,
+        "joy": 0.04403015598654747,
+        "surprise": 0.0009574232972227037,
+        "anger": 0.016878237947821617,
+        "sadness": 0.01958654634654522,
+        "disgust": 0.0008386825793422759,
+        "fear": 0.0009474880062043667
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hi. I bought an item which when received it isnt the item which was described on the website. How can this be resolved please",
+      "strategy": [
+        "PROCEDURAL",
+        "FACTS",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.07188419997692108,
+        "joy": 0.014001460745930672,
+        "surprise": 0.001358458073809743,
+        "anger": 0.904354989528656,
+        "sadness": 0.0036292215809226036,
+        "disgust": 0.002997195115312934,
+        "fear": 0.0017744959332048893
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi. I apologise for this. it does appear that the item you purchased describes the exact item received. were you aware of this prior to buying",
+      "strategy": [
+        "PROCEDURAL",
+        "RESIDUAL",
+        "FACTS",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9536547064781189,
+        "joy": 0.016134345903992653,
+        "surprise": 0.0019243237329646945,
+        "anger": 0.019666995853185654,
+        "sadness": 0.005529864691197872,
+        "disgust": 0.00118504639249295,
+        "fear": 0.001904797158204019
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Sorry this is incorrect. The main image and product description on the website stated the name of the player and a different item was delivered. For this reason can i have a refund. Can you retract the back review. And could i have an apology please",
+      "strategy": [
+        "RESIDUAL",
+        "FACTS",
+        "PROPOSAL",
+        "PROPOSAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.01958971470594406,
+        "joy": 0.005311910063028336,
+        "surprise": 0.0008354205638170242,
+        "anger": 0.9656669497489929,
+        "sadness": 0.0034015648998320103,
+        "disgust": 0.003697122447192669,
+        "fear": 0.0014972632052376866
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Unfortunately, due to company policy, I can only offer a partial refund as I am a small business. I would be able to retract the bad review if you would be willing to retract yours. I would be happy to accept providing you with an apology if I could gain one in return. Many thanks",
+      "strategy": [
+        "RIGHTS",
+        "PROPOSAL",
+        "PROPOSAL",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.7210429906845093,
+        "joy": 0.014143893495202065,
+        "surprise": 0.0006538486923091114,
+        "anger": 0.25299471616744995,
+        "sadness": 0.006508575286716223,
+        "disgust": 0.002872921759262681,
+        "fear": 0.0017828777199611068
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will accept a full refund. i will send the item back. If you agree to retract the bad review if you do as well. And for this agreement we won't need to apologize to each other. Is that ok",
+      "strategy": [
+        "CONCESSION",
+        "CONCESSION",
+        "PROPOSAL",
+        "PROPOSAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.5502820014953613,
+        "joy": 0.01457071304321289,
+        "surprise": 0.0007696451502852142,
+        "anger": 0.4230855405330658,
+        "sadness": 0.006373938173055649,
+        "disgust": 0.003236278658732772,
+        "fear": 0.0016818941803649068
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Apologies, I cannot take the item back once used and as such I am willing to offer a partial refund as I am losing money by giving you the item. I am happy to retract the review as agreed. I feel as if it would be good for us to both apologise as life is too short to hold grudges as you are welcome to shop here again. I would never want to be on poor terms with a buyer. How does that sound",
+      "strategy": [
+        "RIGHTS",
+        "CONCESSION",
+        "POSITIVE EXPECTATIONS",
+        "INTEREST",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.7589581608772278,
+        "joy": 0.018903451040387154,
+        "surprise": 0.000551143370103091,
+        "anger": 0.20681987702846527,
+        "sadness": 0.007437222637236118,
+        "disgust": 0.005585582461208105,
+        "fear": 0.0017445601988583803
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Ok i agree to these terms",
+      "strategy": [
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.455764502286911,
+        "joy": 0.020406685769557953,
+        "surprise": 0.0024102318566292524,
+        "anger": 0.5055993795394897,
+        "sadness": 0.011624784208834171,
+        "disgust": 0.0017425320111215115,
+        "fear": 0.0024518617428839207
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "That is fantastic. glad to hear it",
+      "strategy": [
+        "RESIDUAL",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.01418836135417223,
+        "joy": 0.9728867411613464,
+        "surprise": 0.0011934598442167044,
+        "anger": 0.009676839224994183,
+        "sadness": 0.0012298738583922386,
+        "disgust": 0.0004931014846079051,
+        "fear": 0.00033166081993840635
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets partial refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer did apologize.",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8730727434158325,
+        "joy": 0.03085462562739849,
+        "surprise": 0.0013615201460197568,
+        "anger": 0.07328013330698013,
+        "sadness": 0.00644252635538578,
+        "disgust": 0.01197050977498293,
+        "fear": 0.003017905866727233
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2527.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello, I'd like to receive a refund. I'm happy to return the product",
+      "strategy": [
+        "PROPOSAL",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.5337977409362793,
+        "joy": 0.018895620480179787,
+        "surprise": 0.0014782327925786376,
+        "anger": 0.4333815276622772,
+        "sadness": 0.002966173691675067,
+        "disgust": 0.007292059250175953,
+        "fear": 0.0021886550821363926
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "please goods sold are not returnable",
+      "strategy": [
+        "RIGHTS"
+      ],
+      "emotion": {
+        "neutral": 0.8803996443748474,
+        "joy": 0.0164103452116251,
+        "surprise": 0.0028236303478479385,
+        "anger": 0.0877540335059166,
+        "sadness": 0.008750954642891884,
+        "disgust": 0.0024656530003994703,
+        "fear": 0.001395724480971694
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Even if you sent the wrong product?",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.850941002368927,
+        "joy": 0.016735177487134933,
+        "surprise": 0.00924208015203476,
+        "anger": 0.10133880376815796,
+        "sadness": 0.011131975799798965,
+        "disgust": 0.0016202328260987997,
+        "fear": 0.008990736678242683
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I apologize for the inconvenience. we'll gladly facilitate a refund for the incorrect product sent",
+      "strategy": [
+        "INTEREST",
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.9488889575004578,
+        "joy": 0.010959210805594921,
+        "surprise": 0.0009667531121522188,
+        "anger": 0.03242013603448868,
+        "sadness": 0.004169455263763666,
+        "disgust": 0.0012596530141308904,
+        "fear": 0.001335760927759111
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thank you. I really appreciate it. When I receive the full refund, I'll also be happy to retract the bad review if you will also retract the review you left for me?",
+      "strategy": [
+        "RESIDUAL",
+        "RESIDUAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.5340333580970764,
+        "joy": 0.18360300362110138,
+        "surprise": 0.0015615873271599412,
+        "anger": 0.269491583108902,
+        "sadness": 0.003916752524673939,
+        "disgust": 0.004733676556497812,
+        "fear": 0.002660120604559779
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "you will get your refund as soon as possible",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.867347002029419,
+        "joy": 0.02353763021528721,
+        "surprise": 0.0007589592132717371,
+        "anger": 0.10021886229515076,
+        "sadness": 0.005750406067818403,
+        "disgust": 0.001333908992819488,
+        "fear": 0.0010533016175031662
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thank you!. Will you also retract the bad review you left me?. I will do the same for you",
+      "strategy": [
+        "RESIDUAL",
+        "PROPOSAL",
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.06263372302055359,
+        "joy": 0.8779409527778625,
+        "surprise": 0.0030400187242776155,
+        "anger": 0.05214307829737663,
+        "sadness": 0.001654422259889543,
+        "disgust": 0.0013481017667800188,
+        "fear": 0.0012397237587720156
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Sure, will need an apology as well",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.8183839321136475,
+        "joy": 0.017309213057160378,
+        "surprise": 0.0011238295119255781,
+        "anger": 0.11672980338335037,
+        "sadness": 0.03760640323162079,
+        "disgust": 0.006505026947706938,
+        "fear": 0.0023418297059834003
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "If you apologize to me as well - then yes!",
+      "strategy": [
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.207461878657341,
+        "joy": 0.11746849119663239,
+        "surprise": 0.001661765738390386,
+        "anger": 0.6366634368896484,
+        "sadness": 0.030357562005519867,
+        "disgust": 0.00165363191626966,
+        "fear": 0.00473327562212944
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Sure, i will",
+      "strategy": [
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.8596909642219543,
+        "joy": 0.034070029854774475,
+        "surprise": 0.00041279211291112006,
+        "anger": 0.07425300031900406,
+        "sadness": 0.028647402301430702,
+        "disgust": 0.0015286417910829186,
+        "fear": 0.0013971810694783926
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thanks, I'm happy we could reach an agreement",
+      "strategy": [
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.7573412656784058,
+        "joy": 0.18149523437023163,
+        "surprise": 0.0006142539205029607,
+        "anger": 0.03232848271727562,
+        "sadness": 0.02526548132300377,
+        "disgust": 0.0014525565784424543,
+        "fear": 0.0015027289045974612
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer did apologize.",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8580532073974609,
+        "joy": 0.037272922694683075,
+        "surprise": 0.0014464134583249688,
+        "anger": 0.08178037405014038,
+        "sadness": 0.0060763489454984665,
+        "disgust": 0.012472199276089668,
+        "fear": 0.0028985377866774797
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2659.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello. I believe I should receive a refund as the product you sold me was not accurate in the description",
+      "strategy": [
+        "PROCEDURAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.6599934101104736,
+        "joy": 0.03298591822385788,
+        "surprise": 0.0021820582915097475,
+        "anger": 0.28919053077697754,
+        "sadness": 0.0054258983582258224,
+        "disgust": 0.007338716648519039,
+        "fear": 0.002883432200178504
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Can you please explain how the product you received did not match the description",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.7244000434875488,
+        "joy": 0.00943747442215681,
+        "surprise": 0.005522466730326414,
+        "anger": 0.24711382389068604,
+        "sadness": 0.0053202491253614426,
+        "disgust": 0.005160608794540167,
+        "fear": 0.0030453489162027836
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The jersey you sold me was supposed to be Kobe's jersey but the jersey I received was not. The description was then changed when I complained. I will gladly retract my bad review and apologize if you can make this right",
+      "strategy": [
+        "FACTS",
+        "FACTS",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.12337803840637207,
+        "joy": 0.01938183233141899,
+        "surprise": 0.001574804075062275,
+        "anger": 0.8396580815315247,
+        "sadness": 0.009556476026773453,
+        "disgust": 0.004802253562957048,
+        "fear": 0.0016485856613144279
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Ok that's fine I will give you a refund if you remove the bad review and apologize for the misunderstanding",
+      "strategy": [
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.8865079283714294,
+        "joy": 0.0140237370505929,
+        "surprise": 0.0010232677450403571,
+        "anger": 0.08621429651975632,
+        "sadness": 0.007272494025528431,
+        "disgust": 0.0031979421619325876,
+        "fear": 0.001760326442308724
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Okay, I agree, however I would like the refund first before I remove the review and apologize",
+      "strategy": [
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.21483495831489563,
+        "joy": 0.011934326961636543,
+        "surprise": 0.0006195192108862102,
+        "anger": 0.7568978071212769,
+        "sadness": 0.006907157599925995,
+        "disgust": 0.007452178746461868,
+        "fear": 0.0013540992513298988
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Yes I agree to those terms. I will also retract your review as a buyer and apologize",
+      "strategy": [
+        "CONCESSION",
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.7957767248153687,
+        "joy": 0.019154949113726616,
+        "surprise": 0.0007160193636082113,
+        "anger": 0.17385344207286835,
+        "sadness": 0.0050714509561657906,
+        "disgust": 0.004089669324457645,
+        "fear": 0.0013377449940890074
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Sounds great thank you",
+      "strategy": [
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.3119552731513977,
+        "joy": 0.6510075926780701,
+        "surprise": 0.001936412649229169,
+        "anger": 0.029055388644337654,
+        "sadness": 0.003218008205294609,
+        "disgust": 0.0013205035356804729,
+        "fear": 0.0015067980857566
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Ok we are both in agreement let's finalize the deal",
+      "strategy": [
+        "POSITIVE EXPECTATIONS"
+      ],
+      "emotion": {
+        "neutral": 0.9234842658042908,
+        "joy": 0.04332142695784569,
+        "surprise": 0.0005348129780031741,
+        "anger": 0.02675579860806465,
+        "sadness": 0.0042288596741855145,
+        "disgust": 0.0005144581082277,
+        "fear": 0.001160413259640336
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer did apologize",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8761308193206787,
+        "joy": 0.03505270928144455,
+        "surprise": 0.0014132658252492547,
+        "anger": 0.06863853335380554,
+        "sadness": 0.005421237554401159,
+        "disgust": 0.010951660573482513,
+        "fear": 0.0023918719962239265
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2823.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hi, the shirt I received was not the one that I ordered.. So I would like to receive a refund please.",
+      "strategy": [
+        "FACTS",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.7393189668655396,
+        "joy": 0.06613709777593613,
+        "surprise": 0.0018643132643774152,
+        "anger": 0.17483898997306824,
+        "sadness": 0.007760585751384497,
+        "disgust": 0.005403950810432434,
+        "fear": 0.004676073789596558
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi, I'm sorry to hear that.. What did you order and what did you receive?",
+      "strategy": [
+        "RESIDUAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.7145353555679321,
+        "joy": 0.04767826199531555,
+        "surprise": 0.010376918129622936,
+        "anger": 0.009939971379935741,
+        "sadness": 0.20737634599208832,
+        "disgust": 0.0036475511733442545,
+        "fear": 0.006445719860494137
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I ordered a Bryant basketball shirt but received one for another player.. I specifically wanted the Bryant shirt so would like a refund as the shirt I received was not the one that I ordered.. Thanks",
+      "strategy": [
+        "FACTS",
+        "INTEREST",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.14738541841506958,
+        "joy": 0.09147485345602036,
+        "surprise": 0.0033781060483306646,
+        "anger": 0.7348389029502869,
+        "sadness": 0.010393105447292328,
+        "disgust": 0.008219686336815357,
+        "fear": 0.004309956915676594
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I see, I understand.. For future reference the shirt ordered didn't have specific player on the back, but as a Bryant fan myself I can understand your frustration.",
+      "strategy": [
+        "RESIDUAL",
+        "POSITIVE EXPECTATIONS"
+      ],
+      "emotion": {
+        "neutral": 0.9781955480575562,
+        "joy": 0.005505732726305723,
+        "surprise": 0.00046516198199242353,
+        "anger": 0.006841870490461588,
+        "sadness": 0.006429736502468586,
+        "disgust": 0.0015991508262231946,
+        "fear": 0.0009627704857848585
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thanks for your understanding.. If that is the case then I'd suggest that the advert is modified to specifically state that fact as otherwise it can be misleading.. Any way - can I confirm that you will be able to refund me for this purchase?",
+      "strategy": [
+        "RESIDUAL",
+        "PROPOSAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.6626265048980713,
+        "joy": 0.011469759047031403,
+        "surprise": 0.0006816523964516819,
+        "anger": 0.3116353154182434,
+        "sadness": 0.008633389137685299,
+        "disgust": 0.0025567461270838976,
+        "fear": 0.0023967621382325888
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I'll have to look at the advert again to make it clearer for future buyers.. I'd hate for things to be misleading.. I can offer you a refund, and also a short specifically for Bryant if you like?",
+      "strategy": [
+        "PROPOSAL",
+        "INTEREST",
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.9171640276908875,
+        "joy": 0.02559191733598709,
+        "surprise": 0.00046107431990094483,
+        "anger": 0.03739927336573601,
+        "sadness": 0.012343673966825008,
+        "disgust": 0.0024356511421501637,
+        "fear": 0.0046044401824474335
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "That would be great - much appreciated.. If your willing to do that then I would see this matter as resolved and will retract my initial negative review, clarifying that after a following discussion that we were able to reach an amicable resolution.. In return would you also retract the previous review that you have made of me following our initial communications?. Does that seem fair to you?",
+      "strategy": [
+        "RESIDUAL",
+        "CONCESSION",
+        "PROPOSAL",
+        "RIGHTS"
+      ],
+      "emotion": {
+        "neutral": 0.4225221276283264,
+        "joy": 0.039959702640771866,
+        "surprise": 0.0010665468871593475,
+        "anger": 0.5265195965766907,
+        "sadness": 0.005547060631215572,
+        "disgust": 0.0026295704301446676,
+        "fear": 0.001755323726683855
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Of course that's more than fair, I hope you buy from us again.. Anything more you need?",
+      "strategy": [
+        "POSITIVE EXPECTATIONS",
+        "PROCEDURAL"
+      ],
+      "emotion": {
+        "neutral": 0.529063880443573,
+        "joy": 0.44379541277885437,
+        "surprise": 0.0016506478423252702,
+        "anger": 0.02045390009880066,
+        "sadness": 0.00299442233517766,
+        "disgust": 0.0009117864537984133,
+        "fear": 0.0011300271144136786
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I surely will.. I just wanted to apologise for my comments in our initial exchange and would appreciate if you would apologise for your part in the our initial disagreement.. I'm really happy that we were able to reach an agreement.. Thanks again.",
+      "strategy": [
+        "RESIDUAL",
+        "INTEREST",
+        "RESIDUAL",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.7564277052879333,
+        "joy": 0.14215774834156036,
+        "surprise": 0.0008729388355277479,
+        "anger": 0.06954564899206161,
+        "sadness": 0.02705496735870838,
+        "disgust": 0.001814233954064548,
+        "fear": 0.0021268492564558983
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Apologies on my side also.. Hope you enjoy the rest of your day!",
+      "strategy": [
+        "RESIDUAL",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.7193649411201477,
+        "joy": 0.13315975666046143,
+        "surprise": 0.001206439221277833,
+        "anger": 0.05583756044507027,
+        "sadness": 0.08091788738965988,
+        "disgust": 0.006299738772213459,
+        "fear": 0.0032137765083462
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer did apologize.",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8580532073974609,
+        "joy": 0.037272922694683075,
+        "surprise": 0.0014464134583249688,
+        "anger": 0.08178037405014038,
+        "sadness": 0.0060763489454984665,
+        "disgust": 0.012472199276089668,
+        "fear": 0.0028985377866774797
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2589.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello. I would like to receive a refund as I received a product different from what I ordered",
+      "strategy": [
+        "PROCEDURAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.6862084269523621,
+        "joy": 0.0204654261469841,
+        "surprise": 0.0022577792406082153,
+        "anger": 0.27658727765083313,
+        "sadness": 0.005991949234157801,
+        "disgust": 0.005550316069275141,
+        "fear": 0.002938871970400214
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "What was the problem with your product?",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9563567042350769,
+        "joy": 0.008532116189599037,
+        "surprise": 0.005692535080015659,
+        "anger": 0.022694746032357216,
+        "sadness": 0.004018597304821014,
+        "disgust": 0.0014258772134780884,
+        "fear": 0.0012794140493497252
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I ordered a Kobe Bryant jersey and I received the wrong one. It has a player name on it that is not Bryant",
+      "strategy": [
+        "FACTS",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.6692396402359009,
+        "joy": 0.029828215017914772,
+        "surprise": 0.01849675364792347,
+        "anger": 0.24884584546089172,
+        "sadness": 0.015493548475205898,
+        "disgust": 0.010693317279219627,
+        "fear": 0.007402630057185888
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Unfortunately our website stated that Kobe Bryant was not available for purchase",
+      "strategy": [
+        "RIGHTS"
+      ],
+      "emotion": {
+        "neutral": 0.9672579169273376,
+        "joy": 0.006162809208035469,
+        "surprise": 0.0006975586293265224,
+        "anger": 0.02079710178077221,
+        "sadness": 0.002747036051005125,
+        "disgust": 0.0015096715651452541,
+        "fear": 0.0008278592140413821
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The listing stated that the jersey was a Kobe Bryant jersey and that is what I selected and purchased. If this product was not available the listing should have been taken down. I received a different jersey and I would like a refund",
+      "strategy": [
+        "FACTS",
+        "RIGHTS",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.04935867339372635,
+        "joy": 0.00979979895055294,
+        "surprise": 0.0013663476565852761,
+        "anger": 0.9325283169746399,
+        "sadness": 0.002497322391718626,
+        "disgust": 0.0035291656386107206,
+        "fear": 0.0009203398367390037
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I can offer a refund as long as the product is shipped back to us",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.9073075652122498,
+        "joy": 0.0070432801730930805,
+        "surprise": 0.0007024396909400821,
+        "anger": 0.07974086701869965,
+        "sadness": 0.0019123374950140715,
+        "disgust": 0.0020457617938518524,
+        "fear": 0.0012478423304855824
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Shipping the product back is not a problem. I will return it as soon as you send over return instructions and the shipping label to my email",
+      "strategy": [
+        "CONCESSION",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.6468060612678528,
+        "joy": 0.01423102617263794,
+        "surprise": 0.0007744211470708251,
+        "anger": 0.33063262701034546,
+        "sadness": 0.0025804834440350533,
+        "disgust": 0.003679780988022685,
+        "fear": 0.0012956670252606273
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "That's fine. I will send it over",
+      "strategy": [
+        "RESIDUAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.9500365257263184,
+        "joy": 0.006555098574608564,
+        "surprise": 0.00027942302403971553,
+        "anger": 0.03579716756939888,
+        "sadness": 0.0052861557342112064,
+        "disgust": 0.0011020988458767533,
+        "fear": 0.000943471968639642
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I would also like you to retract the bad review you have posted of me calling me a fraud and a liar as this issue is not my fault",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.1165274828672409,
+        "joy": 0.009899521246552467,
+        "surprise": 0.0005875435890629888,
+        "anger": 0.8553948998451233,
+        "sadness": 0.009332220070064068,
+        "disgust": 0.006357251666486263,
+        "fear": 0.001901055104099214
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "As long as you retract yours as well. I am sorry for the poor buying experience",
+      "strategy": [
+        "PROPOSAL",
+        "INTEREST"
+      ],
+      "emotion": {
+        "neutral": 0.6191052198410034,
+        "joy": 0.028279056772589684,
+        "surprise": 0.0014720583567395806,
+        "anger": 0.06842271238565445,
+        "sadness": 0.2686929404735565,
+        "disgust": 0.010566488839685917,
+        "fear": 0.0034615881741046906
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will retract my review as long as you do. I agree to this",
+      "strategy": [
+        "CONCESSION",
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.6252570152282715,
+        "joy": 0.010962341912090778,
+        "surprise": 0.0010385728674009442,
+        "anger": 0.35486897826194763,
+        "sadness": 0.0034788877237588167,
+        "disgust": 0.0026157295797020197,
+        "fear": 0.0017784466035664082
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer didn't apologize",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8704424500465393,
+        "joy": 0.025793062523007393,
+        "surprise": 0.0013353275135159492,
+        "anger": 0.08169150352478027,
+        "sadness": 0.005730804987251759,
+        "disgust": 0.013320550322532654,
+        "fear": 0.001686319475993514
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2835.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hi,. I got a wrong package,",
+      "strategy": [
+        "PROCEDURAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.7670477032661438,
+        "joy": 0.10646457225084305,
+        "surprise": 0.011774263344705105,
+        "anger": 0.05141967907547951,
+        "sadness": 0.02641410194337368,
+        "disgust": 0.0020333947613835335,
+        "fear": 0.034846238791942596
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi,. Sorry to hear that,. Could you advise which item you received",
+      "strategy": [
+        "PROCEDURAL",
+        "RESIDUAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.946999192237854,
+        "joy": 0.01595032773911953,
+        "surprise": 0.0021664027590304613,
+        "anger": 0.008041374385356903,
+        "sadness": 0.024306174367666245,
+        "disgust": 0.001308570383116603,
+        "fear": 0.0012280303053557873
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I received a replica of the LA Lakers Basketball Championship jersey instead of the jersey Kobe Bryant used for his last championship,",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.1484253853559494,
+        "joy": 0.831833004951477,
+        "surprise": 0.0018984952475875616,
+        "anger": 0.008873824030160904,
+        "sadness": 0.006618909537792206,
+        "disgust": 0.0013259107945486903,
+        "fear": 0.001024541910737753
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "We apologise for any confusion,. It is stated on our website that this is a replica item and not the original item worn by Kobe Bryant,",
+      "strategy": [
+        "RESIDUAL",
+        "RIGHTS"
+      ],
+      "emotion": {
+        "neutral": 0.9608744382858276,
+        "joy": 0.01297752745449543,
+        "surprise": 0.0015009102644398808,
+        "anger": 0.017109021544456482,
+        "sadness": 0.004089684691280127,
+        "disgust": 0.0017353871371597052,
+        "fear": 0.0017130367923527956
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Sure,. I understand,. But what was sent was a replica of the LA Lakers Basketball Championship jersey,. I would like to return the item and get what I initially ordered for,",
+      "strategy": [
+        "RESIDUAL",
+        "RESIDUAL",
+        "FACTS",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.3409174978733063,
+        "joy": 0.04126584529876709,
+        "surprise": 0.002576140221208334,
+        "anger": 0.599978506565094,
+        "sadness": 0.008024400100111961,
+        "disgust": 0.005231388844549656,
+        "fear": 0.0020062311086803675
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Could you clarify as we provided you with a jersey for the correct team,. Which other item would you like to receive,",
+      "strategy": [
+        "FACTS",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9537838101387024,
+        "joy": 0.009262682870030403,
+        "surprise": 0.0006749212043359876,
+        "anger": 0.03372090682387352,
+        "sadness": 0.000761649978812784,
+        "disgust": 0.0010446140076965094,
+        "fear": 0.0007514427416026592
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I would be pleased to receive a replica of the Kobe Bryant jersey worn in his last championship game,",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.7118604183197021,
+        "joy": 0.25292572379112244,
+        "surprise": 0.0021193851716816425,
+        "anger": 0.01623096875846386,
+        "sadness": 0.010956110432744026,
+        "disgust": 0.0042046853341162205,
+        "fear": 0.001702830195426941
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Could you advise how this would differ from the item which you have received,",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.8119444251060486,
+        "joy": 0.007580628618597984,
+        "surprise": 0.0023583159781992435,
+        "anger": 0.17252428829669952,
+        "sadness": 0.002222826238721609,
+        "disgust": 0.0020990916527807713,
+        "fear": 0.0012703987304121256
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The Kobe Bryant jersey is a specific player's jersey and not just any other LA Lakers Basketball Championship team player's jersey,",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9175229072570801,
+        "joy": 0.04072396829724312,
+        "surprise": 0.0031909956596791744,
+        "anger": 0.02988330088555813,
+        "sadness": 0.00469729071483016,
+        "disgust": 0.0023664410691708326,
+        "fear": 0.0016150650335475802
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Which player's jersey have you received,",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.930211067199707,
+        "joy": 0.051965340971946716,
+        "surprise": 0.0034914598800241947,
+        "anger": 0.008070480078458786,
+        "sadness": 0.00425148569047451,
+        "disgust": 0.0013426474761217833,
+        "fear": 0.00066752964630723
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I don't even know this player,. Never heard of him,",
+      "strategy": [
+        "FACTS",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.5096253752708435,
+        "joy": 0.12709875404834747,
+        "surprise": 0.27617472410202026,
+        "anger": 0.05822483077645302,
+        "sadness": 0.01265400554984808,
+        "disgust": 0.003592576365917921,
+        "fear": 0.012629741802811623
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Could you advise of the name on the jersey,",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.980109453201294,
+        "joy": 0.008726963773369789,
+        "surprise": 0.0012126148212701082,
+        "anger": 0.007568640168756247,
+        "sadness": 0.000950008921790868,
+        "disgust": 0.0006213432643562555,
+        "fear": 0.0008108307956717908
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "PLAYER TEAM(S) GAMES Carmelo Anthony - details USA (Olympics) 16 Trevor Ariza - details Los Angeles Lakers (USA-1) 137 Chucky Atkins - details Los Angeles Lakers (USA-1) 66 Matt Barnes - details Los Angeles Lakers (USA-1) 130 Jon Barry - details Los Angeles Lakers (USA-1) 52 Brandon Bass - details Los Angeles Lakers (USA-1) 52 Mario Bennett - details Los Angeles Lakers (USA-1) 46 Tarik Black - details Los Angeles Lakers (USA-1) 32 Steve Blake - details Los Angeles Lakers (USA-1) 188 Corie Blount - details Los Angeles Lakers (USA-1) 145 Carlos Boozer - details Los Angeles Lakers (USA-1) USA (Olympics) 41 Chris Bosh - details USA (Olympics) 8 Tierre Brown - details Los Angeles Lakers (USA-1) 61 Kwame Brown - details Los Angeles Lakers (USA-1) 144 Shannon Brown - details Los Angeles Lakers (USA-1) 226 Anthony Brown - details Los Angeles Lakers (USA-1) 17 Caron Butler - details Los Angeles Lakers (USA-1) 61 Andrew Bynum - details Los Angeles Lakers (USA-1) 451 Elden Campbell - details Los Angeles Lakers (USA-1) 181 Derrick Caracter - details Los Angeles Lakers (USA-1) 41 Maurice Carter - details Los Angeles Lakers (USA-1) 1 Cedric Ceballos - details Los Angeles Lakers (USA-1) 7 John Celestand,",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.8878803849220276,
+        "joy": 0.051741842180490494,
+        "surprise": 0.004028989467769861,
+        "anger": 0.038036078214645386,
+        "sadness": 0.0128564964979887,
+        "disgust": 0.002874131314456463,
+        "fear": 0.002581931883469224
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I apologise if I wasn't clear,. I meant the name of the player that is printed on the jersey,",
+      "strategy": [
+        "RESIDUAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9399219751358032,
+        "joy": 0.018498454242944717,
+        "surprise": 0.0016551966546103358,
+        "anger": 0.020877597853541374,
+        "sadness": 0.012035837396979332,
+        "disgust": 0.0020772861316800117,
+        "fear": 0.004933763295412064
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "John Celestand,",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9675479531288147,
+        "joy": 0.017221393063664436,
+        "surprise": 0.0011564503656700253,
+        "anger": 0.0107780946418643,
+        "sadness": 0.002406776649877429,
+        "disgust": 0.0003294989001005888,
+        "fear": 0.0005596920964308083
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "That is not possible, as we do not stock this players jersey,. He was not a member of the championship team with Kobe Bryant,",
+      "strategy": [
+        "RIGHTS",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.734673023223877,
+        "joy": 0.023481205105781555,
+        "surprise": 0.010365501046180725,
+        "anger": 0.21177564561367035,
+        "sadness": 0.010398555546998978,
+        "disgust": 0.006060908082872629,
+        "fear": 0.0032452114392071962
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Exactly my point,. I did not order for this jersey and I do not know why I received a package I did not place an order for,. If it is not possible to return it and get a refund, it is fine, I'll just keep it in my closet,",
+      "strategy": [
+        "RESIDUAL",
+        "FACTS",
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.002666351618245244,
+        "joy": 0.0022089709527790546,
+        "surprise": 0.0007334848633036017,
+        "anger": 0.9904752373695374,
+        "sadness": 0.0008984418818727136,
+        "disgust": 0.0023529380559921265,
+        "fear": 0.0006645662360824645
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I apologise for any inconvenience caused,. If you are happy to keep the item, I hope you enjoy it,",
+      "strategy": [
+        "RESIDUAL",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.9583803415298462,
+        "joy": 0.012322422116994858,
+        "surprise": 0.0004883264191448689,
+        "anger": 0.020901203155517578,
+        "sadness": 0.005569334141910076,
+        "disgust": 0.0015838381368666887,
+        "fear": 0.0007545955013483763
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thank you for your time,",
+      "strategy": [
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.9552491307258606,
+        "joy": 0.02144787274301052,
+        "surprise": 0.0005646296194754541,
+        "anger": 0.01854015327990055,
+        "sadness": 0.002937854267656803,
+        "disgust": 0.0006531423423439264,
+        "fear": 0.0006072444957681
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets no refund, seller retracted their review, buyer retracted their review, seller didn't apologize, and buyer didn't apologize,",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.5605528354644775,
+        "joy": 0.043269820511341095,
+        "surprise": 0.0022856693249195814,
+        "anger": 0.3164902925491333,
+        "sadness": 0.018247827887535095,
+        "disgust": 0.05499477684497833,
+        "fear": 0.004158698488026857
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal,",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8372356295585632,
+        "joy": 0.013814974576234818,
+        "surprise": 0.0010985980043187737,
+        "anger": 0.13629713654518127,
+        "sadness": 0.009126055985689163,
+        "disgust": 0.0015122508630156517,
+        "fear": 0.0009153198334388435
+      }
+    }
+  ],
+  "irp_kodis_2566.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "i did not get what i ordered. i need a refund",
+      "strategy": [
+        "FACTS",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.019399745389819145,
+        "joy": 0.009452004916965961,
+        "surprise": 0.0011473726481199265,
+        "anger": 0.9590393900871277,
+        "sadness": 0.0076245637610554695,
+        "disgust": 0.001970649231225252,
+        "fear": 0.0013662700075656176
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "i do no offer refunds. its as is",
+      "strategy": [
+        "RIGHTS",
+        "RIGHTS"
+      ],
+      "emotion": {
+        "neutral": 0.8904701471328735,
+        "joy": 0.012879163026809692,
+        "surprise": 0.0007069128332659602,
+        "anger": 0.07644456624984741,
+        "sadness": 0.014902829192578793,
+        "disgust": 0.0030145279597491026,
+        "fear": 0.0015820097178220749
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "but. the best is to give you failed to give me what i need",
+      "strategy": [
+        "RESIDUAL",
+        "INTEREST"
+      ],
+      "emotion": {
+        "neutral": 0.015059131197631359,
+        "joy": 0.017139269039034843,
+        "surprise": 0.001427671522833407,
+        "anger": 0.7736210227012634,
+        "sadness": 0.18467089533805847,
+        "disgust": 0.0030816069338470697,
+        "fear": 0.005000305827707052
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "i can give you a partial refund",
+      "strategy": [
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.971796452999115,
+        "joy": 0.004512567538768053,
+        "surprise": 0.000549663498532027,
+        "anger": 0.01947377249598503,
+        "sadness": 0.0026430992875248194,
+        "disgust": 0.00046510540414601564,
+        "fear": 0.000559362699277699
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "thats a bad deal you know",
+      "strategy": [
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.13560444116592407,
+        "joy": 0.4908348321914673,
+        "surprise": 0.0031835290137678385,
+        "anger": 0.17538179457187653,
+        "sadness": 0.16188740730285645,
+        "disgust": 0.028464410454034805,
+        "fear": 0.004643586464226246
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "it is not because i never stated who will be on the jersey. they are replicas",
+      "strategy": [
+        "FACTS",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.8351435661315918,
+        "joy": 0.12684515118598938,
+        "surprise": 0.002101038582623005,
+        "anger": 0.026792626827955246,
+        "sadness": 0.005959807429462671,
+        "disgust": 0.0012411660281941295,
+        "fear": 0.001916692592203617
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "how about getting wht i need",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.6167842149734497,
+        "joy": 0.03055177628993988,
+        "surprise": 0.0011940952390432358,
+        "anger": 0.32484036684036255,
+        "sadness": 0.020942727103829384,
+        "disgust": 0.00198135944083333,
+        "fear": 0.003705470822751522
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "partial refund or no refund at all",
+      "strategy": [
+        "POWER"
+      ],
+      "emotion": {
+        "neutral": 0.5374636650085449,
+        "joy": 0.02504216693341732,
+        "surprise": 0.0012307458091527224,
+        "anger": 0.4212547838687897,
+        "sadness": 0.0053633591160178185,
+        "disgust": 0.008081560954451561,
+        "fear": 0.0015637354226782918
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "am not happy about this",
+      "strategy": [
+        "INTEREST"
+      ],
+      "emotion": {
+        "neutral": 0.005014075431972742,
+        "joy": 0.002599569270387292,
+        "surprise": 0.0014360951026901603,
+        "anger": 0.9640139937400818,
+        "sadness": 0.019767392426729202,
+        "disgust": 0.005080105736851692,
+        "fear": 0.002088692272081971
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I Walk Away.",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.5454526543617249,
+        "joy": 0.01734856702387333,
+        "surprise": 0.004090660717338324,
+        "anger": 0.3355017304420471,
+        "sadness": 0.08035232871770859,
+        "disgust": 0.012298870831727982,
+        "fear": 0.004955124109983444
+      }
+    }
+  ],
+  "irp_kodis_2531.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello I would like to receive a refund as this purchase is not what I received.. I would like an authentic jersey.",
+      "strategy": [
+        "PROPOSAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.09005462378263474,
+        "joy": 0.041665416210889816,
+        "surprise": 0.001988611649721861,
+        "anger": 0.8515616655349731,
+        "sadness": 0.005492780823260546,
+        "disgust": 0.00722302682697773,
+        "fear": 0.002013836055994034
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "where you specific",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.640831470489502,
+        "joy": 0.23069563508033752,
+        "surprise": 0.0055891163647174835,
+        "anger": 0.11011762917041779,
+        "sadness": 0.008721875958144665,
+        "disgust": 0.0019441425101831555,
+        "fear": 0.0021002336870878935
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I would like a full refund please and an apology.",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.015899591147899628,
+        "joy": 0.008531440049409866,
+        "surprise": 0.0012273112079128623,
+        "anger": 0.9497984051704407,
+        "sadness": 0.0045600649900734425,
+        "disgust": 0.018250098451972008,
+        "fear": 0.0017331268172711134
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "am sorry but can i know the reason",
+      "strategy": [
+        "INTEREST"
+      ],
+      "emotion": {
+        "neutral": 0.06251460313796997,
+        "joy": 0.010868712328374386,
+        "surprise": 0.0038176754023879766,
+        "anger": 0.5917752385139465,
+        "sadness": 0.3151693642139435,
+        "disgust": 0.0024690136779099703,
+        "fear": 0.013385472819209099
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "This jersey quality is not up to par and I worked hard to earn this money to get a legitimate jersey.",
+      "strategy": [
+        "INTEREST"
+      ],
+      "emotion": {
+        "neutral": 0.0031478742603212595,
+        "joy": 0.004978751763701439,
+        "surprise": 0.0027801573742181063,
+        "anger": 0.955794095993042,
+        "sadness": 0.004699912387877703,
+        "disgust": 0.026881426572799683,
+        "fear": 0.0017179002752527595
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "well am sorry to hear that but our product are autentic",
+      "strategy": [
+        "RIGHTS"
+      ],
+      "emotion": {
+        "neutral": 0.8665727376937866,
+        "joy": 0.03963981568813324,
+        "surprise": 0.0012731349561363459,
+        "anger": 0.04360562562942505,
+        "sadness": 0.04322567954659462,
+        "disgust": 0.003932660911232233,
+        "fear": 0.0017502402188256383
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "It is not authentic and my review of you will stand.. Please we need to agree with issue and refund and we can remove the ratings and reviews okay.",
+      "strategy": [
+        "POWER",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.018237927928566933,
+        "joy": 0.0034262854605913162,
+        "surprise": 0.0004053506418131292,
+        "anger": 0.9719226360321045,
+        "sadness": 0.0011219271691516042,
+        "disgust": 0.003969139885157347,
+        "fear": 0.0009167619282379746
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "okay but on an account make sure the jersey is intact cause there will be a penalty if there's any fault",
+      "strategy": [
+        "POWER"
+      ],
+      "emotion": {
+        "neutral": 0.8782214522361755,
+        "joy": 0.06676474958658218,
+        "surprise": 0.0006591181154362857,
+        "anger": 0.04784151166677475,
+        "sadness": 0.002036510733887553,
+        "disgust": 0.0016593972686678171,
+        "fear": 0.0028173753526061773
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller didn't apologize, and buyer didn't apologize.",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8357158303260803,
+        "joy": 0.043260358273983,
+        "surprise": 0.001362807466648519,
+        "anger": 0.09526345878839493,
+        "sadness": 0.006035501137375832,
+        "disgust": 0.016451988369226456,
+        "fear": 0.0019100528443232179
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Reject Deal. am sorry for any inconvenience but can only give you refund if you accept the condition",
+      "strategy": [
+        "NULL",
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.7655819058418274,
+        "joy": 0.018329652026295662,
+        "surprise": 0.001103005139157176,
+        "anger": 0.19860532879829407,
+        "sadness": 0.010061454959213734,
+        "disgust": 0.00445276964455843,
+        "fear": 0.0018658774206414819
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok i will accept the condition",
+      "strategy": [
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.40818217396736145,
+        "joy": 0.015126087702810764,
+        "surprise": 0.0008483861456625164,
+        "anger": 0.5514106154441833,
+        "sadness": 0.020828109234571457,
+        "disgust": 0.00210820441134274,
+        "fear": 0.0014964370056986809
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer didn't apologize.",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8584398627281189,
+        "joy": 0.026554064825177193,
+        "surprise": 0.0012604313669726253,
+        "anger": 0.09282806515693665,
+        "sadness": 0.00611403863877058,
+        "disgust": 0.0128027917817235,
+        "fear": 0.0020007453858852386
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2862.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Good day seller.. I think you should offer a full refund for the wrong item that was delivered.",
+      "strategy": [
+        "PROCEDURAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.7801523804664612,
+        "joy": 0.06279914081096649,
+        "surprise": 0.0019040206680074334,
+        "anger": 0.1446981430053711,
+        "sadness": 0.004413488786667585,
+        "disgust": 0.004894678946584463,
+        "fear": 0.0011382205411791801
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "hi, can i please see the item picture",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.964914858341217,
+        "joy": 0.008412397466599941,
+        "surprise": 0.0007302500889636576,
+        "anger": 0.022435829043388367,
+        "sadness": 0.0019396066199988127,
+        "disgust": 0.0004548644064925611,
+        "fear": 0.0011122386204078794
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I am unable to send you a picture of the item however it was not a Kobe Bryant shirt has described on your website.",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9584597945213318,
+        "joy": 0.00769818015396595,
+        "surprise": 0.001733411569148302,
+        "anger": 0.024867180734872818,
+        "sadness": 0.0013351870002225041,
+        "disgust": 0.0037904707714915276,
+        "fear": 0.002115746261551976
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "according to my paperwork we have sent the right item as advertised on my web page",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.02520088478922844,
+        "joy": 0.005548296961933374,
+        "surprise": 0.001448590774089098,
+        "anger": 0.9632750153541565,
+        "sadness": 0.0021526883356273174,
+        "disgust": 0.0009840313578024507,
+        "fear": 0.0013905031373724341
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The website was misleading.. I am happy to remove my negative review if you are able to refund me.",
+      "strategy": [
+        "RIGHTS",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.5824705362319946,
+        "joy": 0.05915447697043419,
+        "surprise": 0.002594147576019168,
+        "anger": 0.32972991466522217,
+        "sadness": 0.012079496867954731,
+        "disgust": 0.010072199627757072,
+        "fear": 0.003899242030456662
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "many other customer have ordered as you and received the item , they are happy with the item so the website is not missleading",
+      "strategy": [
+        "RIGHTS"
+      ],
+      "emotion": {
+        "neutral": 0.6202211976051331,
+        "joy": 0.03363044932484627,
+        "surprise": 0.003535130526870489,
+        "anger": 0.31972458958625793,
+        "sadness": 0.014213436283171177,
+        "disgust": 0.00540934270247817,
+        "fear": 0.003265905426815152
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The website advertised a Kobe shirt.. The item I received was for a player I have never heard of.. If you are not willing to refund me, I will advertise a negative review of your website on every social media available.",
+      "strategy": [
+        "FACTS",
+        "FACTS",
+        "POWER"
+      ],
+      "emotion": {
+        "neutral": 0.013764813542366028,
+        "joy": 0.0072015621699392796,
+        "surprise": 0.004310195334255695,
+        "anger": 0.9613161087036133,
+        "sadness": 0.0021221351344138384,
+        "disgust": 0.009500864893198013,
+        "fear": 0.00178431102540344
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "as stated i provided the shirt as advertised on my webpage, so i will not offer a refund",
+      "strategy": [
+        "RIGHTS"
+      ],
+      "emotion": {
+        "neutral": 0.27169662714004517,
+        "joy": 0.013186498545110226,
+        "surprise": 0.001083460170775652,
+        "anger": 0.7049591541290283,
+        "sadness": 0.005265232175588608,
+        "disgust": 0.0021771749015897512,
+        "fear": 0.0016318474663421512
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "We should come to a mutually beneficial agreement.. You give me a refund, I will remove my negative review.",
+      "strategy": [
+        "POSITIVE EXPECTATIONS",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.21433299779891968,
+        "joy": 0.008875320665538311,
+        "surprise": 0.0004739319847431034,
+        "anger": 0.7664728164672852,
+        "sadness": 0.0050233276560902596,
+        "disgust": 0.003579105483368039,
+        "fear": 0.0012425186578184366
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "no sorry i will not give a refund,. thank you for your understanding",
+      "strategy": [
+        "RESIDUAL",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.7396329641342163,
+        "joy": 0.019588680937886238,
+        "surprise": 0.00075640989234671,
+        "anger": 0.1657378375530243,
+        "sadness": 0.07027963548898697,
+        "disgust": 0.0019092544680461287,
+        "fear": 0.0020952268969267607
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I Walk Away.",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.5454526543617249,
+        "joy": 0.01734856702387333,
+        "surprise": 0.004090660717338324,
+        "anger": 0.3355017304420471,
+        "sadness": 0.08035232871770859,
+        "disgust": 0.012298870831727982,
+        "fear": 0.004955124109983444
+      }
+    }
+  ],
+  "irp_kodis_2663.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello, I'm enquiring about my refund.",
+      "strategy": [
+        "PROCEDURAL"
+      ],
+      "emotion": {
+        "neutral": 0.7828981280326843,
+        "joy": 0.006529618985950947,
+        "surprise": 0.0012442277511581779,
+        "anger": 0.20018044114112854,
+        "sadness": 0.004101919941604137,
+        "disgust": 0.0032811653800308704,
+        "fear": 0.0017644957406446338
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi, as was stated on the website when you purchased, all sales are final and the jersey you purchased was a replica non-player specific jersey.",
+      "strategy": [
+        "RIGHTS"
+      ],
+      "emotion": {
+        "neutral": 0.9817028045654297,
+        "joy": 0.005770527292042971,
+        "surprise": 0.000737776979804039,
+        "anger": 0.008359163999557495,
+        "sadness": 0.001074829837307334,
+        "disgust": 0.0018506376072764397,
+        "fear": 0.0005043031414970756
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Are you aware that I received a confirmation email from you at point of purchase that clearly states it was for a Kobe Bryant jersey, which was, in fact, the reason why I chose it.",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.2821851074695587,
+        "joy": 0.0112254424020648,
+        "surprise": 0.0056360457092523575,
+        "anger": 0.6918951272964478,
+        "sadness": 0.0027266733814030886,
+        "disgust": 0.004367818124592304,
+        "fear": 0.001963734393939376
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "No I was not aware of that, but to my knowledge it was clearly stated on the website it was not a kobe bryant jersey.. I take pride in making sure all my listings are accurate.",
+      "strategy": [
+        "FACTS",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.9015800356864929,
+        "joy": 0.029042519629001617,
+        "surprise": 0.003310555825009942,
+        "anger": 0.05452664941549301,
+        "sadness": 0.0051239714957773685,
+        "disgust": 0.002910437062382698,
+        "fear": 0.0035056688357144594
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "That's great.. I'm sure it was merely a technical issue.. I will forward you the confirmation email so that you can get started on my refund.",
+      "strategy": [
+        "RESIDUAL",
+        "INTEREST",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.5294831395149231,
+        "joy": 0.4105928838253021,
+        "surprise": 0.0023997933603823185,
+        "anger": 0.049916185438632965,
+        "sadness": 0.004082398023456335,
+        "disgust": 0.001619928516447544,
+        "fear": 0.0019056192832067609
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I wont get started on it, until you send the confirmation email, which I believe you are making up.",
+      "strategy": [
+        "POWER"
+      ],
+      "emotion": {
+        "neutral": 0.21741382777690887,
+        "joy": 0.030366869643330574,
+        "surprise": 0.0017947966698557138,
+        "anger": 0.7373833656311035,
+        "sadness": 0.0043475027196109295,
+        "disgust": 0.007250472903251648,
+        "fear": 0.001443149521946907
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Check your inbox.. And without a full refund, I will be forced to leave another poor review, along with screenshots.",
+      "strategy": [
+        "FACTS",
+        "POWER"
+      ],
+      "emotion": {
+        "neutral": 0.02080531232059002,
+        "joy": 0.002883988432586193,
+        "surprise": 0.000531621859408915,
+        "anger": 0.9589182138442993,
+        "sadness": 0.0033243100624531507,
+        "disgust": 0.01257916260510683,
+        "fear": 0.0009574423893354833
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I have a nearly spotless record, one bad review won't kill my reputation.. You liar and crook.",
+      "strategy": [
+        "RESIDUAL",
+        "POWER"
+      ],
+      "emotion": {
+        "neutral": 0.009733068756759167,
+        "joy": 0.011451871134340763,
+        "surprise": 0.0024700940120965242,
+        "anger": 0.9580413103103638,
+        "sadness": 0.004120603669434786,
+        "disgust": 0.012122937478125095,
+        "fear": 0.0020601663272827864
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The receipts say otherwise.. I doubt you'll keep your reputation for long.",
+      "strategy": [
+        "FACTS",
+        "POWER"
+      ],
+      "emotion": {
+        "neutral": 0.6111683249473572,
+        "joy": 0.06762473285198212,
+        "surprise": 0.0022266411688178778,
+        "anger": 0.2584257423877716,
+        "sadness": 0.044690269976854324,
+        "disgust": 0.011669056490063667,
+        "fear": 0.004195205867290497
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "you keep talking about receipts but that means nothing if you can't produce them.. The website clearly stated it was not a Kobe jersey",
+      "strategy": [
+        "RIGHTS",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.06214505434036255,
+        "joy": 0.00316367344930768,
+        "surprise": 0.0018700615037232637,
+        "anger": 0.9265536069869995,
+        "sadness": 0.002118918811902404,
+        "disgust": 0.0030627225060015917,
+        "fear": 0.001085916766896844
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "You should have received the copy of my confirmation letter by now.. But don't worry.. I can post it to your review board as we speak.",
+      "strategy": [
+        "FACTS",
+        "RESIDUAL",
+        "POWER"
+      ],
+      "emotion": {
+        "neutral": 0.9345928430557251,
+        "joy": 0.0492500402033329,
+        "surprise": 0.0005353937740437686,
+        "anger": 0.01205152552574873,
+        "sadness": 0.002172495936974883,
+        "disgust": 0.0007182170520536602,
+        "fear": 0.0006794020882807672
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "We ain't gonna agree on anything you passive aggressive liar and crook.. So peace out and stick it up there",
+      "strategy": [
+        "POWER",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.0032347706146538258,
+        "joy": 0.0017183866584673524,
+        "surprise": 0.0003135505539830774,
+        "anger": 0.9875806570053101,
+        "sadness": 0.0022183244582265615,
+        "disgust": 0.004572834353893995,
+        "fear": 0.000361424230504781
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "It's done.. But why are you so hostile?. Is this the way you typically do business?",
+      "strategy": [
+        "FACTS",
+        "INTEREST",
+        "INTEREST"
+      ],
+      "emotion": {
+        "neutral": 0.03483719751238823,
+        "joy": 0.00474489526823163,
+        "surprise": 0.011479301378130913,
+        "anger": 0.9355455040931702,
+        "sadness": 0.0054179304279387,
+        "disgust": 0.005835541058331728,
+        "fear": 0.0021396749652922153
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I Walk Away.",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.5454526543617249,
+        "joy": 0.01734856702387333,
+        "surprise": 0.004090660717338324,
+        "anger": 0.3355017304420471,
+        "sadness": 0.08035232871770859,
+        "disgust": 0.012298870831727982,
+        "fear": 0.004955124109983444
+      }
+    }
+  ],
+  "irp_kodis_2819.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "The item I purchase was not exactly what was advertised. Please can you give me a partial refund of 50%. I am removing your negative review even if you don't",
+      "strategy": [
+        "FACTS",
+        "PROPOSAL",
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.10068712383508682,
+        "joy": 0.01431179791688919,
+        "surprise": 0.0012020990252494812,
+        "anger": 0.8722942471504211,
+        "sadness": 0.0036057401448488235,
+        "disgust": 0.0060579306446015835,
+        "fear": 0.0018411822384223342
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Oh C'mon, the item description was fully stated right. So it was clearly advertised. Might just be an omission from you",
+      "strategy": [
+        "RIGHTS",
+        "FACTS",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.5204919576644897,
+        "joy": 0.019649965688586235,
+        "surprise": 0.007431513629853725,
+        "anger": 0.43268895149230957,
+        "sadness": 0.013061398640275002,
+        "disgust": 0.004122109618037939,
+        "fear": 0.0025540506467223167
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I found it misleading. I bought it with the intention it would be Kobi Bryant, as that was how it was advertised. Why did you remove the Kobe Bryant of the advert after the sale. It seems all a bit fishy to me. But haven't said that I mean no malice so I will remove my bad review of you. Please will you do the same. Would you be willing to offer any sort of refund",
+      "strategy": [
+        "INTEREST",
+        "FACTS",
+        "FACTS",
+        "INTEREST",
+        "CONCESSION",
+        "PROPOSAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.03936586529016495,
+        "joy": 0.03102230466902256,
+        "surprise": 0.0017655107658356428,
+        "anger": 0.9167503118515015,
+        "sadness": 0.004502779804170132,
+        "disgust": 0.005391198676079512,
+        "fear": 0.0012021149741485715
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Okay. For business sake. I can do a partial refund. Is that okay",
+      "strategy": [
+        "CONCESSION",
+        "INTEREST",
+        "CONCESSION",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.8461906909942627,
+        "joy": 0.0047791944816708565,
+        "surprise": 0.0005988936172798276,
+        "anger": 0.1362074315547943,
+        "sadness": 0.008592305704951286,
+        "disgust": 0.0019134818576276302,
+        "fear": 0.0017179661663249135
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Yes that will be good. How much can you refund",
+      "strategy": [
+        "RESIDUAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9116984009742737,
+        "joy": 0.008888622745871544,
+        "surprise": 0.0007469173287972808,
+        "anger": 0.07258863747119904,
+        "sadness": 0.00289221853017807,
+        "disgust": 0.0022169824223965406,
+        "fear": 0.0009681843803264201
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Let's do a partial 50% refund then. I guess you will take retract the bad review",
+      "strategy": [
+        "PROPOSAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.9108001589775085,
+        "joy": 0.015478639863431454,
+        "surprise": 0.00041896963375620544,
+        "anger": 0.06669958680868149,
+        "sadness": 0.0034262370318174362,
+        "disgust": 0.0025709830224514008,
+        "fear": 0.0006054534460417926
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Yes definitely, will you remove your review as well. I am sorry that I put it on in the first place. I just felt let down. but I really appreciate how you have handled this now",
+      "strategy": [
+        "PROPOSAL",
+        "RESIDUAL",
+        "INTEREST",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.37923383712768555,
+        "joy": 0.2339310348033905,
+        "surprise": 0.0015475580003112555,
+        "anger": 0.31230950355529785,
+        "sadness": 0.059461601078510284,
+        "disgust": 0.009540949948132038,
+        "fear": 0.003975526429712772
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Yes. I will do that as well. I am sorry as well. We have a deal",
+      "strategy": [
+        "RESIDUAL",
+        "CONCESSION",
+        "RESIDUAL",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.3124043643474579,
+        "joy": 0.010291043668985367,
+        "surprise": 0.0004549318691715598,
+        "anger": 0.4614403545856476,
+        "sadness": 0.20992380380630493,
+        "disgust": 0.0030607080552726984,
+        "fear": 0.0024247164838016033
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets partial refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer did apologize",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.889937698841095,
+        "joy": 0.028216276317834854,
+        "surprise": 0.0013198922388255596,
+        "anger": 0.06209656223654747,
+        "sadness": 0.005632429383695126,
+        "disgust": 0.010402858257293701,
+        "fear": 0.0023942834232002497
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2634.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello, I want my refund of my purchase",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.08495961129665375,
+        "joy": 0.007961807772517204,
+        "surprise": 0.0014776006573811173,
+        "anger": 0.8976852893829346,
+        "sadness": 0.0030477738473564386,
+        "disgust": 0.0035334047861397266,
+        "fear": 0.0013344064354896545
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi!. What seems to be the problem?",
+      "strategy": [
+        "PROCEDURAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.8662106990814209,
+        "joy": 0.0582883395254612,
+        "surprise": 0.015903761610388756,
+        "anger": 0.0415375642478466,
+        "sadness": 0.01152097713202238,
+        "disgust": 0.0018214149167761207,
+        "fear": 0.00471727317199111
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The web page announce a shirt of kobe bryan, but when I got it, that shirt didn't be from that player",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.8972097635269165,
+        "joy": 0.017677392810583115,
+        "surprise": 0.00551510090008378,
+        "anger": 0.07038184255361557,
+        "sadness": 0.005500960163772106,
+        "disgust": 0.0019664622377604246,
+        "fear": 0.001748512382619083
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I understand your frustation, and I'm really sorry. but the page doesn't mention that the jersey will carry Kobe or any other player's name. And I want to mention that bad reviews can really harm a business. I want to fix this for both of us, are you interested in a deal so we can resolve this peacefully?",
+      "strategy": [
+        "INTEREST",
+        "FACTS",
+        "POWER",
+        "POSITIVE EXPECTATIONS"
+      ],
+      "emotion": {
+        "neutral": 0.27946510910987854,
+        "joy": 0.007850301451981068,
+        "surprise": 0.0006756213842891157,
+        "anger": 0.6944444179534912,
+        "sadness": 0.01000388152897358,
+        "disgust": 0.004862393718212843,
+        "fear": 0.0026982363779097795
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Sure, I want my refund and I will retract about my bad review",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.19097085297107697,
+        "joy": 0.035147156566381454,
+        "surprise": 0.0009221345535479486,
+        "anger": 0.7620717883110046,
+        "sadness": 0.004443682264536619,
+        "disgust": 0.0048720380291342735,
+        "fear": 0.0015723839169368148
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I appreciate it. and I will erase the negative review about you, so you can avoid any repercussions as well. Thanks for being understanding",
+      "strategy": [
+        "RESIDUAL",
+        "PROPOSAL",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.9378223419189453,
+        "joy": 0.042716797441244125,
+        "surprise": 0.0005147000774741173,
+        "anger": 0.010165451094508171,
+        "sadness": 0.005996849853545427,
+        "disgust": 0.001448290073312819,
+        "fear": 0.0013354874681681395
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thank you I guess.. but what I really want is my refund. could you be able to do that?",
+      "strategy": [
+        "INTEREST",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.44328367710113525,
+        "joy": 0.1744808405637741,
+        "surprise": 0.0010105352848768234,
+        "anger": 0.32695472240448,
+        "sadness": 0.04811766743659973,
+        "disgust": 0.002859241794794798,
+        "fear": 0.003293384565040469
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I'll definitely get you your refund, no questions asked. I want all of our customers to have an excellent buying experience with us. so if the product is not what you expected, you'll definitely get your refund",
+      "strategy": [
+        "CONCESSION",
+        "POSITIVE EXPECTATIONS",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.886692464351654,
+        "joy": 0.01756783202290535,
+        "surprise": 0.0006632547010667622,
+        "anger": 0.08533760905265808,
+        "sadness": 0.003602071665227413,
+        "disgust": 0.005027357954531908,
+        "fear": 0.0011091982014477253
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Ok, thank you so much.. That would be perfect!",
+      "strategy": [
+        "RESIDUAL",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.0034559881314635277,
+        "joy": 0.9876839518547058,
+        "surprise": 0.0043342383578419685,
+        "anger": 0.0029815929010510445,
+        "sadness": 0.0007154598133638501,
+        "disgust": 0.0003940385940950364,
+        "fear": 0.0004346824425738305
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer didn't apologize.",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8584398627281189,
+        "joy": 0.026554064825177193,
+        "surprise": 0.0012604313669726253,
+        "anger": 0.09282806515693665,
+        "sadness": 0.00611403863877058,
+        "disgust": 0.0128027917817235,
+        "fear": 0.0020007453858852386
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2858.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "greetings Mam/Sir the tshirt arrived and it did not match the description on the website. May i please be refunded or sent the one that matches the description",
+      "strategy": [
+        "FACTS",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.5026289224624634,
+        "joy": 0.1555025726556778,
+        "surprise": 0.0021239782217890024,
+        "anger": 0.3142693340778351,
+        "sadness": 0.016626490280032158,
+        "disgust": 0.005473203491419554,
+        "fear": 0.003375557716935873
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hello, mam/sir, I would like to inform you that the tshirt wasn't of a specified person on the website therefore I did not do anything wrong in this case. I spent money and resources to send over this item. I would like you to retract a bad review of me as I did nothing wrong",
+      "strategy": [
+        "RIGHTS",
+        "FACTS",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.15656469762325287,
+        "joy": 0.018299253657460213,
+        "surprise": 0.0006485104095190763,
+        "anger": 0.8176250457763672,
+        "sadness": 0.003376795444637537,
+        "disgust": 0.0020612683147192,
+        "fear": 0.0014243852347135544
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will take down the review if you could please atleast give me a 90% refund. because it was false advertising on your website and i have taken pictures as proof. I do not want to end this on a bad note, as this tshirt is for my nephew and he would be disappointed because he is a Kobe fan",
+      "strategy": [
+        "PROPOSAL",
+        "FACTS",
+        "INTEREST"
+      ],
+      "emotion": {
+        "neutral": 0.013806983828544617,
+        "joy": 0.015308509580790997,
+        "surprise": 0.0007928441627882421,
+        "anger": 0.9423046708106995,
+        "sadness": 0.020124010741710663,
+        "disgust": 0.005475264973938465,
+        "fear": 0.002187731210142374
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "First of all, I have every right to complain to trade association about your illegal activities in trying to deceive me to get money and the tshirt. and you may get fined for lying and trying to deceive, as well as banned from this site altogether. I have proof that I sent a replica Los Angeles Lakers Basketball Championship jersey. It was not a Kobe shirt and it was never said that it was. You are only trying to get more money out of me, when it is quite shameless to do so",
+      "strategy": [
+        "POWER",
+        "POWER",
+        "FACTS",
+        "FACTS",
+        "POWER"
+      ],
+      "emotion": {
+        "neutral": 0.004208182450383902,
+        "joy": 0.004715680610388517,
+        "surprise": 0.0006594155565835536,
+        "anger": 0.9847331643104553,
+        "sadness": 0.00115120317786932,
+        "disgust": 0.00401986064389348,
+        "fear": 0.000512369500938803
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "It is not an illegal activity and you know that. This can cause more problems for you because your website did not state that i was not going to get what i ordered. This is actually your store trying to lure customers in. Go ahead and complain i will do so too and you will not be able to sell on any website. I tried to huble myself but i can see that you do not want to resolve this issue properly. You forgetting that you stand a high chance of loosing your business than i do. Its either you apologise to me, give me my refund and i give you your shirt back, i take down the reviews and we part ways, because this will be bad for your business",
+      "strategy": [
+        "RIGHTS",
+        "POWER",
+        "POWER",
+        "POWER",
+        "RESIDUAL",
+        "POWER",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.0027797205839306116,
+        "joy": 0.0013080170610919595,
+        "surprise": 0.000227698270464316,
+        "anger": 0.9926913380622864,
+        "sadness": 0.001159692881628871,
+        "disgust": 0.0014640535227954388,
+        "fear": 0.00036941844155080616
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Except the site never stated that it was a Kobe tshirt so you are in the wrong here. I will offer you a refund if you send over the shirt back, and you delete the bad review of me. Otherwise you won't get refunded and you will be stuck with the shirt. I only want to resolve this in a nice manner. I believe you should apologize to me as you didn't read description of shirt and wanted to get a shirt that was never even existing on our site. We don't sell Kobe shirts and never have",
+      "strategy": [
+        "RIGHTS",
+        "PROPOSAL",
+        "POWER",
+        "INTEREST",
+        "RIGHTS",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.10974521189928055,
+        "joy": 0.014968266710639,
+        "surprise": 0.0007668097969144583,
+        "anger": 0.8656923174858093,
+        "sadness": 0.003789898008108139,
+        "disgust": 0.004206355661153793,
+        "fear": 0.0008311354322358966
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "It is fine, I will send over the shirt and delete the bad review and you can refund me and apologise. I hope you will also apologise because if other customers see your comments they might not want to buy so let us keep a good reputation for your shop in terms of good responses. Thank you",
+      "strategy": [
+        "CONCESSION",
+        "POSITIVE EXPECTATIONS",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.7508350610733032,
+        "joy": 0.05327398702502251,
+        "surprise": 0.0006567991222254932,
+        "anger": 0.1769680678844452,
+        "sadness": 0.009504478424787521,
+        "disgust": 0.006275286432355642,
+        "fear": 0.0024862270802259445
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "We both must apologize because I do my business fairly and it is disheartening to see you shame me like this when I want what's best for customers. I started this business because I wanted to make people happy. I will give you refund too, for sending it back. Great I believe we have a deal. I will finalize it",
+      "strategy": [
+        "INTEREST",
+        "INTEREST",
+        "CONCESSION",
+        "RESIDUAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.004021580331027508,
+        "joy": 0.0021434277296066284,
+        "surprise": 0.00022557492775376886,
+        "anger": 0.987198531627655,
+        "sadness": 0.003547546686604619,
+        "disgust": 0.00244137248955667,
+        "fear": 0.00042202870827168226
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will issue an apology no problem. Thank you so much enjoy the rest of your day",
+      "strategy": [
+        "CONCESSION",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.63514643907547,
+        "joy": 0.03509390726685524,
+        "surprise": 0.0007681926945224404,
+        "anger": 0.31536421179771423,
+        "sadness": 0.008758969604969025,
+        "disgust": 0.003135339356958866,
+        "fear": 0.001732917153276503
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller kept their review, buyer retracted their review, seller did apologize, and buyer did apologize",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.9227176308631897,
+        "joy": 0.02372819371521473,
+        "surprise": 0.0010489391861483455,
+        "anger": 0.04208755865693092,
+        "sadness": 0.0033652291167527437,
+        "disgust": 0.005541085731238127,
+        "fear": 0.0015113650588318706
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2730.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "I received a wrong item, so i claim a full refund",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.13273625075817108,
+        "joy": 0.0405527800321579,
+        "surprise": 0.002632222604006529,
+        "anger": 0.8083847761154175,
+        "sadness": 0.007722681388258934,
+        "disgust": 0.005902579519897699,
+        "fear": 0.002068751258775592
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi!. Thanks for reaching out.. What was wrong with the item?",
+      "strategy": [
+        "PROCEDURAL",
+        "RESIDUAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.8268269300460815,
+        "joy": 0.11289291083812714,
+        "surprise": 0.02277372218668461,
+        "anger": 0.011419452726840973,
+        "sadness": 0.018762947991490364,
+        "disgust": 0.0021767860744148493,
+        "fear": 0.005147170275449753
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I ordered a specific model that was clearly offered on the page, instead I received a wrong model item",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.028273191303014755,
+        "joy": 0.01086353324353695,
+        "surprise": 0.002877181628718972,
+        "anger": 0.9486694931983948,
+        "sadness": 0.003474500961601734,
+        "disgust": 0.004236267413944006,
+        "fear": 0.0016058790497481823
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Right.. According to what i can see on the site, we didnt offered an specific model. but I understand that maybe it wasn't clearly specified.. I really apologize for the situation.. Unfortunately i can't offer a full refund, but we can find other solutions.. How would you like to proceed?",
+      "strategy": [
+        "RESIDUAL",
+        "FACTS",
+        "INTEREST",
+        "RESIDUAL",
+        "RIGHTS",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9400768280029297,
+        "joy": 0.009616553783416748,
+        "surprise": 0.0008592460071668029,
+        "anger": 0.03139996901154518,
+        "sadness": 0.013874566182494164,
+        "disgust": 0.0014641120797023177,
+        "fear": 0.0027087328489869833
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "There were specific models offered. but then you changed the product description, so i keep my posture of requesting a full refund, otherwise i will publish negative reviews of your page",
+      "strategy": [
+        "FACTS",
+        "POWER"
+      ],
+      "emotion": {
+        "neutral": 0.02653064765036106,
+        "joy": 0.010960975661873817,
+        "surprise": 0.0006310803582891822,
+        "anger": 0.9551333785057068,
+        "sadness": 0.0035275486297905445,
+        "disgust": 0.002552185207605362,
+        "fear": 0.0006642045336775482
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I completely understand how are you feeling. so that's why im offering you a 30% discount on your next purchase.. How does that sound to you?",
+      "strategy": [
+        "INTEREST",
+        "PROPOSAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9288988709449768,
+        "joy": 0.012829700484871864,
+        "surprise": 0.0005525623564608395,
+        "anger": 0.020935282111167908,
+        "sadness": 0.03049013763666153,
+        "disgust": 0.004405681975185871,
+        "fear": 0.0018879337003454566
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I would prefer a partial refund then, so i could purchase again",
+      "strategy": [
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.10112006217241287,
+        "joy": 0.008490363135933876,
+        "surprise": 0.0006235952605493367,
+        "anger": 0.8775521516799927,
+        "sadness": 0.007044265046715736,
+        "disgust": 0.004025385249406099,
+        "fear": 0.0011441841488704085
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Great!. So let me register in my system that information.. Im giving you 30% of the total amount of your purchase as a refund.. Im adding the information provided, and a review of you as a ciient.",
+      "strategy": [
+        "RESIDUAL",
+        "FACTS",
+        "CONCESSION",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.3529589772224426,
+        "joy": 0.2081717848777771,
+        "surprise": 0.003483035136014223,
+        "anger": 0.425801157951355,
+        "sadness": 0.0027223476208746433,
+        "disgust": 0.005061799194663763,
+        "fear": 0.001800829777494073
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok, i will accept the refund and will close the dispute",
+      "strategy": [
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.4202556014060974,
+        "joy": 0.02673415280878544,
+        "surprise": 0.0006890378426760435,
+        "anger": 0.5374568104743958,
+        "sadness": 0.011967010796070099,
+        "disgust": 0.0013478758046403527,
+        "fear": 0.0015493774553760886
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Just before finishing, i will kindly ask you if you could remove the negative reviews on the site. and also ask you: Are you happy with the result of this issue?",
+      "strategy": [
+        "PROPOSAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9060038328170776,
+        "joy": 0.009059816598892212,
+        "surprise": 0.00046289965393953025,
+        "anger": 0.07591617852449417,
+        "sadness": 0.005952266976237297,
+        "disgust": 0.0011440127855166793,
+        "fear": 0.001460954430513084
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok i will remove the review on the page",
+      "strategy": [
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.9561308026313782,
+        "joy": 0.012826121412217617,
+        "surprise": 0.00039357205969281495,
+        "anger": 0.026848608627915382,
+        "sadness": 0.0023978075478225946,
+        "disgust": 0.00076817482477054,
+        "fear": 0.0006348454626277089
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Thanks for your response.. I will suggest to look carefully for the details in the next purchase!",
+      "strategy": [
+        "RESIDUAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.48789846897125244,
+        "joy": 0.4292725622653961,
+        "surprise": 0.002063204301521182,
+        "anger": 0.06921776384115219,
+        "sadness": 0.004863825161010027,
+        "disgust": 0.0035348536912351847,
+        "fear": 0.003149386728182435
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets partial refund, seller retracted their review, buyer retracted their review, seller didn't apologize, and buyer didn't apologize.",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8536856770515442,
+        "joy": 0.03487597405910492,
+        "surprise": 0.0013356487033888698,
+        "anger": 0.08528222888708115,
+        "sadness": 0.006190096959471703,
+        "disgust": 0.016633450984954834,
+        "fear": 0.001996993087232113
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Reject Deal. Submitted agreement: Buyer gets partial refund, seller kept their review, buyer retracted their review, seller did apologize, and buyer didn't apologize.",
+      "strategy": [
+        "NULL",
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.632053554058075,
+        "joy": 0.037766341120004654,
+        "surprise": 0.0021647338289767504,
+        "anger": 0.27507248520851135,
+        "sadness": 0.01384095847606659,
+        "disgust": 0.03637672960758209,
+        "fear": 0.002725237049162388
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2675.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello!. I would like to know if you could give me a refund for the jersey?. I would appreciate it if you could since the product didnt match the description. I will be more than willing to return the jersey too as well as remove my bad review",
+      "strategy": [
+        "PROCEDURAL",
+        "PROPOSAL",
+        "INTEREST",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.322078138589859,
+        "joy": 0.10036127269268036,
+        "surprise": 0.002052940661087632,
+        "anger": 0.5536816716194153,
+        "sadness": 0.007647060789167881,
+        "disgust": 0.008593223057687283,
+        "fear": 0.005585742183029652
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi. I'm sorry but the description on the website did say that the shirt didn't come with a players name. I can't give you a refund but would be willing to remove my review if you remove yours",
+      "strategy": [
+        "PROCEDURAL",
+        "FACTS",
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.9014225006103516,
+        "joy": 0.013090863823890686,
+        "surprise": 0.0008191135711967945,
+        "anger": 0.07711786031723022,
+        "sadness": 0.0026684715412557125,
+        "disgust": 0.003476448357105255,
+        "fear": 0.0014046536525711417
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I would really appreciate if you gave us a refund as well. we could really use that extra money to help out with our terminally ill son. He doesn't have many more days to live, life has been really hard and I don't know what to do.. His mood is already at a low and with the extra money would could invest it in buying something else that might make him smile one last time.",
+      "strategy": [
+        "INTEREST",
+        "INTEREST",
+        "INTEREST",
+        "INTEREST"
+      ],
+      "emotion": {
+        "neutral": 0.1855762004852295,
+        "joy": 0.031002933159470558,
+        "surprise": 0.0013661027187481523,
+        "anger": 0.1776348203420639,
+        "sadness": 0.5879539847373962,
+        "disgust": 0.008608981966972351,
+        "fear": 0.0078569445759058
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I'm sorry for the misunderstanding and your situation. might be willing to give a refund if we can negotiate.. If you can remove the negative review and post an apology I will do the same",
+      "strategy": [
+        "INTEREST",
+        "CONCESSION",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.6061540246009827,
+        "joy": 0.014513357542455196,
+        "surprise": 0.0007757756393402815,
+        "anger": 0.3389413058757782,
+        "sadness": 0.03232099860906601,
+        "disgust": 0.004323307890444994,
+        "fear": 0.002971136476844549
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "That is a deal!. Thank you for the apology as well. I am sorry for the misunderstanding as well. I will remove my review :)",
+      "strategy": [
+        "RESIDUAL",
+        "RESIDUAL",
+        "RESIDUAL",
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.3800746500492096,
+        "joy": 0.5070298910140991,
+        "surprise": 0.0019190744496881962,
+        "anger": 0.09336543083190918,
+        "sadness": 0.011589692905545235,
+        "disgust": 0.003980094566941261,
+        "fear": 0.0020411997102200985
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "This is great. You agree to the deal?",
+      "strategy": [
+        "RESIDUAL",
+        "PROCEDURAL"
+      ],
+      "emotion": {
+        "neutral": 0.028400924056768417,
+        "joy": 0.9439744353294373,
+        "surprise": 0.009785609319806099,
+        "anger": 0.014844713732600212,
+        "sadness": 0.001574735390022397,
+        "disgust": 0.0003749665629584342,
+        "fear": 0.0010446073720231652
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I do!. So we both will remove our reviews, I receive a full refund, and we both apologized!",
+      "strategy": [
+        "RESIDUAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.03659128025174141,
+        "joy": 0.9163981676101685,
+        "surprise": 0.009249182417988777,
+        "anger": 0.0321509949862957,
+        "sadness": 0.0024360285606235266,
+        "disgust": 0.0008657829603180289,
+        "fear": 0.0023084760177880526
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Yes!. Great. I will give a refund, apologize and remove the review. Thanks for working with me",
+      "strategy": [
+        "RESIDUAL",
+        "RESIDUAL",
+        "CONCESSION",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.48323240876197815,
+        "joy": 0.3627975285053253,
+        "surprise": 0.0013644305290654302,
+        "anger": 0.13788920640945435,
+        "sadness": 0.008172323927283287,
+        "disgust": 0.003946394193917513,
+        "fear": 0.002597830491140485
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer did apologize",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8761308193206787,
+        "joy": 0.03505270928144455,
+        "surprise": 0.0014132658252492547,
+        "anger": 0.06863853335380554,
+        "sadness": 0.005421237554401159,
+        "disgust": 0.010951660573482513,
+        "fear": 0.0023918719962239265
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2878.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello i requesting for a partial refund and an apology",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.14548401534557343,
+        "joy": 0.013263405300676823,
+        "surprise": 0.0011863941326737404,
+        "anger": 0.8223640322685242,
+        "sadness": 0.010925626382231712,
+        "disgust": 0.004704988095909357,
+        "fear": 0.002071513095870614
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hello. Thank you for reaching out. As stated in our policy, all sales are final, and the item description was clear. Therefore, we cannot offer a partial refund or an apology. We appreciate your understanding. Best regards",
+      "strategy": [
+        "PROCEDURAL",
+        "RESIDUAL",
+        "RIGHTS",
+        "RIGHTS",
+        "RESIDUAL",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.9361254572868347,
+        "joy": 0.013518305495381355,
+        "surprise": 0.0008426514687016606,
+        "anger": 0.035217221826314926,
+        "sadness": 0.009971576742827892,
+        "disgust": 0.0025458699092268944,
+        "fear": 0.001778899342752993
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "But you were in the wrong here. how can that be final?",
+      "strategy": [
+        "POWER",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.09753593057394028,
+        "joy": 0.03643885254859924,
+        "surprise": 0.015632137656211853,
+        "anger": 0.6904451847076416,
+        "sadness": 0.14180053770542145,
+        "disgust": 0.01286462415009737,
+        "fear": 0.005282647907733917
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I understand your concern. but the item description was accurate and clearly stated. Our policy of all sales being final ensures fairness and consistency for all customers. Thank you for your understanding",
+      "strategy": [
+        "INTEREST",
+        "FACTS",
+        "RIGHTS",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.9483106136322021,
+        "joy": 0.00681948009878397,
+        "surprise": 0.0007829645182937384,
+        "anger": 0.03618079051375389,
+        "sadness": 0.005046295467764139,
+        "disgust": 0.0018089988734573126,
+        "fear": 0.0010508253471925855
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The order received was not the one that i purchased. and the least you could do is refund partial refund and apology.. Thats all im asking from you",
+      "strategy": [
+        "FACTS",
+        "PROPOSAL",
+        "INTEREST"
+      ],
+      "emotion": {
+        "neutral": 0.010977205820381641,
+        "joy": 0.0035767252556979656,
+        "surprise": 0.00040674288175068796,
+        "anger": 0.9796738028526306,
+        "sadness": 0.003061463125050068,
+        "disgust": 0.0015379079850390553,
+        "fear": 0.0007661716663278639
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I'm sorry to hear about the issue. Could you please provide your order number so I can look into this further for you?",
+      "strategy": [
+        "INTEREST",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9146376848220825,
+        "joy": 0.012053705751895905,
+        "surprise": 0.0015853598015382886,
+        "anger": 0.031165657564997673,
+        "sadness": 0.03405053913593292,
+        "disgust": 0.00376028660684824,
+        "fear": 0.0027467114850878716
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thank you for being so understanding. My order number is: 12345",
+      "strategy": [
+        "RESIDUAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9538546800613403,
+        "joy": 0.01767670176923275,
+        "surprise": 0.0005884129204787314,
+        "anger": 0.019156109541654587,
+        "sadness": 0.006045859307050705,
+        "disgust": 0.0013472457649186254,
+        "fear": 0.0013309443602338433
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Thank you for your patience. I apologize for any confusion or inconvenience caused. As a gesture of goodwill, I can offer you a 50% partial refund",
+      "strategy": [
+        "RESIDUAL",
+        "INTEREST",
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.9468454718589783,
+        "joy": 0.008105590008199215,
+        "surprise": 0.000394295493606478,
+        "anger": 0.04117390885949135,
+        "sadness": 0.001749166869558394,
+        "disgust": 0.0009699806687422097,
+        "fear": 0.0007614290225319564
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets partial refund, seller retracted their review, buyer kept their review, seller did apologize, and buyer didn't apologize.",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.9041504263877869,
+        "joy": 0.023135848343372345,
+        "surprise": 0.0010312824742868543,
+        "anger": 0.056414779275655746,
+        "sadness": 0.005117312073707581,
+        "disgust": 0.008574806153774261,
+        "fear": 0.0015755313215777278
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2602.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello, I was wondering if it is possible to get a refund for the Lakers Jersey I ordered. The item was listed as a Kobe Bryant jersey at the time of purchase, but it is not what I received. I would be willing to send the jersey back in order to get a full refund",
+      "strategy": [
+        "PROPOSAL",
+        "FACTS",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.7397447228431702,
+        "joy": 0.03488343954086304,
+        "surprise": 0.0024102586321532726,
+        "anger": 0.20487931370735168,
+        "sadness": 0.006872948724776506,
+        "disgust": 0.0073346239514648914,
+        "fear": 0.003874750342220068
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I cannot offer a refund. because as my website states the Laker jerseys are general they do not represent a player past or present",
+      "strategy": [
+        "RIGHTS",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.8380925059318542,
+        "joy": 0.007142210379242897,
+        "surprise": 0.0006536286673508584,
+        "anger": 0.14379045367240906,
+        "sadness": 0.0063112820498645306,
+        "disgust": 0.002800936345010996,
+        "fear": 0.001208845293149352
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Yes, however, at the time of purchase, the jersey was listed as a Bryant jersey. I intended this jersey as a gift for my nephew whose idol is Kobe Bryant. I apologized for any confusion. is there any way that I could get a refund/return. I would also be willing to remove the review I left on your shop in return",
+      "strategy": [
+        "FACTS",
+        "INTEREST",
+        "RESIDUAL",
+        "PROPOSAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.8601347804069519,
+        "joy": 0.03145572915673256,
+        "surprise": 0.0018788814777508378,
+        "anger": 0.09120296686887741,
+        "sadness": 0.009492097422480583,
+        "disgust": 0.0023144185543060303,
+        "fear": 0.0035211883950978518
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I appreciate your offer. I am willing to give you a 70 percent refund. I know customers do not always read terms on my website. You could also purchase another generic jersey for 20 percent off web listed price",
+      "strategy": [
+        "RESIDUAL",
+        "CONCESSION",
+        "INTEREST",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.8301698565483093,
+        "joy": 0.012078513391315937,
+        "surprise": 0.0006995081785134971,
+        "anger": 0.14811471104621887,
+        "sadness": 0.0031570149585604668,
+        "disgust": 0.004878657404333353,
+        "fear": 0.0009017877164296806
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I am willing to negotiate the 70 percent refund if you also remove the bad review you left on my page. Thank you for your help",
+      "strategy": [
+        "CONCESSION",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.7229392528533936,
+        "joy": 0.029961077496409416,
+        "surprise": 0.0008156255353242159,
+        "anger": 0.2397451251745224,
+        "sadness": 0.0019172623287886381,
+        "disgust": 0.003522359998896718,
+        "fear": 0.0010992232710123062
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I will remove your bad review you wrote. Are you interested in another sports item, maybe a Laker's yearbook for 2024",
+      "strategy": [
+        "CONCESSION",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.9508657455444336,
+        "joy": 0.022422097623348236,
+        "surprise": 0.0005454488564282656,
+        "anger": 0.020611168816685677,
+        "sadness": 0.0014701727777719498,
+        "disgust": 0.003487102687358856,
+        "fear": 0.0005983401206322014
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "No, just the refund will be fine. I apologize for any inconvenience this has caused. I thank you for your cooperation",
+      "strategy": [
+        "RESIDUAL",
+        "RESIDUAL",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.9183731079101562,
+        "joy": 0.008862851187586784,
+        "surprise": 0.00048545870231464505,
+        "anger": 0.06796304881572723,
+        "sadness": 0.002240686444565654,
+        "disgust": 0.0011956009548157454,
+        "fear": 0.0008793255547061563
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Ok please send me the jersey back and I will credit your account minus 30%",
+      "strategy": [
+        "CONCESSION"
+      ],
+      "emotion": {
+        "neutral": 0.47394153475761414,
+        "joy": 0.008646132424473763,
+        "surprise": 0.0008958916878327727,
+        "anger": 0.5094521641731262,
+        "sadness": 0.002743668621405959,
+        "disgust": 0.0030239170882850885,
+        "fear": 0.0012967046350240707
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Will do, thanks",
+      "strategy": [
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.960411787033081,
+        "joy": 0.013504695147275925,
+        "surprise": 0.0003866504121106118,
+        "anger": 0.019644374027848244,
+        "sadness": 0.004795123357325792,
+        "disgust": 0.000740577990654856,
+        "fear": 0.0005169027717784047
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Please visit our website again and chat with me if you are later interested in any more purchases from my store",
+      "strategy": [
+        "PROCEDURAL"
+      ],
+      "emotion": {
+        "neutral": 0.9019043445587158,
+        "joy": 0.060981228947639465,
+        "surprise": 0.0006504271877929568,
+        "anger": 0.03239981085062027,
+        "sadness": 0.0027811580803245306,
+        "disgust": 0.0006338651874102652,
+        "fear": 0.0006490552914328873
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets partial refund, seller kept their review, buyer retracted their review, seller didn't apologize, and buyer did apologize",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.930950403213501,
+        "joy": 0.020544202998280525,
+        "surprise": 0.0010777292773127556,
+        "anger": 0.03545144945383072,
+        "sadness": 0.003950385842472315,
+        "disgust": 0.006730979774147272,
+        "fear": 0.001294781919568777
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2593.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "I want refund because you sold me the wrong product",
+      "strategy": [
+        "INTEREST"
+      ],
+      "emotion": {
+        "neutral": 0.03691401332616806,
+        "joy": 0.02284388244152069,
+        "surprise": 0.003163882065564394,
+        "anger": 0.9187415242195129,
+        "sadness": 0.007122952025383711,
+        "disgust": 0.007731212768703699,
+        "fear": 0.003482587868347764
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "How was the item different from what you expected?",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.8311599493026733,
+        "joy": 0.08055993169546127,
+        "surprise": 0.061824552714824677,
+        "anger": 0.016173865646123886,
+        "sadness": 0.005341009236872196,
+        "disgust": 0.0016587590798735619,
+        "fear": 0.003281969577074051
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I expected the Kobe Bryant jersey. You sent me a jersey of another player",
+      "strategy": [
+        "FACTS",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.3185482621192932,
+        "joy": 0.16809284687042236,
+        "surprise": 0.2701076865196228,
+        "anger": 0.20244121551513672,
+        "sadness": 0.022447338327765465,
+        "disgust": 0.010104477405548096,
+        "fear": 0.008258085697889328
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "We apologize for the confusion. We would glad to correct the mistake",
+      "strategy": [
+        "RESIDUAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.9115788340568542,
+        "joy": 0.03151446208357811,
+        "surprise": 0.0020592615474015474,
+        "anger": 0.03987663984298706,
+        "sadness": 0.010440254583954811,
+        "disgust": 0.0013384033227339387,
+        "fear": 0.003192212665453553
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok. I will return the jersey and can you send me the Kobe Bryant one?",
+      "strategy": [
+        "RESIDUAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.8214882016181946,
+        "joy": 0.04303417727351189,
+        "surprise": 0.0010373996337875724,
+        "anger": 0.03903086483478546,
+        "sadness": 0.0882059708237648,
+        "disgust": 0.0050588990561664104,
+        "fear": 0.002144490834325552
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Fantastic",
+      "strategy": [
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.009127253666520119,
+        "joy": 0.9820802211761475,
+        "surprise": 0.0024279134813696146,
+        "anger": 0.0044157966040074825,
+        "sadness": 0.0009050526423379779,
+        "disgust": 0.0005459818639792502,
+        "fear": 0.0004978043725714087
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Can you remove the bad review you put about me on your site?",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.5498561263084412,
+        "joy": 0.024006612598896027,
+        "surprise": 0.0030512504745274782,
+        "anger": 0.3827250003814697,
+        "sadness": 0.016334017738699913,
+        "disgust": 0.015493260696530342,
+        "fear": 0.008533659391105175
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I think we both should remove our bad reviews. Do you agree?",
+      "strategy": [
+        "PROPOSAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9437838196754456,
+        "joy": 0.04498596116900444,
+        "surprise": 0.000603778229560703,
+        "anger": 0.00647052563726902,
+        "sadness": 0.002235714579001069,
+        "disgust": 0.001071808161213994,
+        "fear": 0.000848220253828913
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok",
+      "strategy": [
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.9260978102684021,
+        "joy": 0.028883226215839386,
+        "surprise": 0.0014348478289321065,
+        "anger": 0.02729981765151024,
+        "sadness": 0.013845565728843212,
+        "disgust": 0.0006597454776056111,
+        "fear": 0.0017789565026760101
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Done",
+      "strategy": [
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.93940669298172,
+        "joy": 0.042372673749923706,
+        "surprise": 0.0012641814537346363,
+        "anger": 0.011616569012403488,
+        "sadness": 0.0039912862703204155,
+        "disgust": 0.0005877560470253229,
+        "fear": 0.0007608772721141577
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I also want an apology",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.06858199834823608,
+        "joy": 0.004197882022708654,
+        "surprise": 0.0009629500564187765,
+        "anger": 0.8958309888839722,
+        "sadness": 0.02492731437087059,
+        "disgust": 0.003097212640568614,
+        "fear": 0.0024015840608626604
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "We did apologize previously",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.8540544509887695,
+        "joy": 0.014114883728325367,
+        "surprise": 0.0013369395164772868,
+        "anger": 0.06845206767320633,
+        "sadness": 0.05623864382505417,
+        "disgust": 0.0033210653346031904,
+        "fear": 0.002481831470504403
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok",
+      "strategy": [
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.9260978102684021,
+        "joy": 0.028883226215839386,
+        "surprise": 0.0014348478289321065,
+        "anger": 0.02729981765151024,
+        "sadness": 0.013845565728843212,
+        "disgust": 0.0006597454776056111,
+        "fear": 0.0017789565026760101
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets no refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer didn't apologize",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.6235081553459167,
+        "joy": 0.03225235641002655,
+        "surprise": 0.0021913948003202677,
+        "anger": 0.2709232270717621,
+        "sadness": 0.018427649512887,
+        "disgust": 0.0488019660115242,
+        "fear": 0.0038953148759901524
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ],
+  "irp_kodis_2655.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "hello",
+      "strategy": [
+        "PROCEDURAL"
+      ],
+      "emotion": {
+        "neutral": 0.9120450019836426,
+        "joy": 0.020680449903011322,
+        "surprise": 0.001683333539403975,
+        "anger": 0.04771064221858978,
+        "sadness": 0.016394685953855515,
+        "disgust": 0.0008906247676350176,
+        "fear": 0.0005951580824330449
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "hello!. i wanted to talk about your bad review about my business",
+      "strategy": [
+        "PROCEDURAL",
+        "PROCEDURAL"
+      ],
+      "emotion": {
+        "neutral": 0.8443936705589294,
+        "joy": 0.032685741782188416,
+        "surprise": 0.0009517913567833602,
+        "anger": 0.1021331325173378,
+        "sadness": 0.01427794061601162,
+        "disgust": 0.003984477836638689,
+        "fear": 0.0015730797313153744
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "sure I need my refund because the item was sold in a misleading manner",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.019610175862908363,
+        "joy": 0.015562599524855614,
+        "surprise": 0.0023138676770031452,
+        "anger": 0.9497648477554321,
+        "sadness": 0.002788382116705179,
+        "disgust": 0.008056052960455418,
+        "fear": 0.0019041517516598105
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "my website clearly stated that the jersey was a replica that did not represent any specific player. because of this, i don't think a refund is necessary in this case",
+      "strategy": [
+        "FACTS",
+        "RIGHTS"
+      ],
+      "emotion": {
+        "neutral": 0.9455532431602478,
+        "joy": 0.018858959898352623,
+        "surprise": 0.00062465580413118,
+        "anger": 0.03073067218065262,
+        "sadness": 0.0026287881191819906,
+        "disgust": 0.0010204273276031017,
+        "fear": 0.0005831578746438026
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I need my refund because the item was sold in a misleading manner",
+      "strategy": [
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.022702163085341454,
+        "joy": 0.014905010350048542,
+        "surprise": 0.0026405996177345514,
+        "anger": 0.9455535411834717,
+        "sadness": 0.003081492381170392,
+        "disgust": 0.00901731289923191,
+        "fear": 0.002099850680679083
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "i did not mislead you at all. like i mentioned, the listing on my site clearly stated that the jersey was a replica that did not represent any specific player. i apologize if you did not read the listing thoroughly enough. but I cannot offer you a refund. would you be willing to possibly remove the review you left on my business?",
+      "strategy": [
+        "RESIDUAL",
+        "FACTS",
+        "INTEREST",
+        "RIGHTS",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.5964321494102478,
+        "joy": 0.02230958268046379,
+        "surprise": 0.001249693683348596,
+        "anger": 0.36004528403282166,
+        "sadness": 0.013947132043540478,
+        "disgust": 0.003702335525304079,
+        "fear": 0.002313912147656083
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "but the image has no sign of being only descriptive. I will not remove my review until I get my refund. So other people will know what they are getting",
+      "strategy": [
+        "FACTS",
+        "POWER",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.024676499888300896,
+        "joy": 0.011658720672130585,
+        "surprise": 0.0008040547836571932,
+        "anger": 0.9533488154411316,
+        "sadness": 0.002125360304489732,
+        "disgust": 0.00665247393772006,
+        "fear": 0.0007340367301367223
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "the listing for the jersey was incredibly detailed on my end. all my other customers have been able to properly understand that the jersey is not affiliated with kobe bryant in any way, shape or form. if you did not read the description thoroughly enough, that is something that is not my responsibility as the seller",
+      "strategy": [
+        "FACTS",
+        "FACTS",
+        "RIGHTS"
+      ],
+      "emotion": {
+        "neutral": 0.8588269948959351,
+        "joy": 0.035147394984960556,
+        "surprise": 0.0005041320691816509,
+        "anger": 0.09391681104898453,
+        "sadness": 0.007297515869140625,
+        "disgust": 0.003067872952669859,
+        "fear": 0.0012391863856464624
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok, then I will not remove my review. I will keep informing other buyers. since many people liked my review and found it useful. if I don't have a solution I will keep writing more bad reviews",
+      "strategy": [
+        "POWER",
+        "POWER",
+        "FACTS",
+        "POWER"
+      ],
+      "emotion": {
+        "neutral": 0.025453438982367516,
+        "joy": 0.011098116636276245,
+        "surprise": 0.00030389486346393824,
+        "anger": 0.9474480152130127,
+        "sadness": 0.01091733854264021,
+        "disgust": 0.0037300812546163797,
+        "fear": 0.0010491744615137577
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I Walk Away.",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.5454526543617249,
+        "joy": 0.01734856702387333,
+        "surprise": 0.004090660717338324,
+        "anger": 0.3355017304420471,
+        "sadness": 0.08035232871770859,
+        "disgust": 0.012298870831727982,
+        "fear": 0.004955124109983444
+      }
+    }
+  ],
+  "irp_kodis_2710.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello. i demand a full refund on a shirt i bought",
+      "strategy": [
+        "PROCEDURAL",
+        "PROPOSAL"
+      ],
+      "emotion": {
+        "neutral": 0.025457847863435745,
+        "joy": 0.006836763117462397,
+        "surprise": 0.0011649583466351032,
+        "anger": 0.9569166898727417,
+        "sadness": 0.0032785257790237665,
+        "disgust": 0.005321681499481201,
+        "fear": 0.001023597433231771
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "ok",
+      "strategy": [
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.9260978102684021,
+        "joy": 0.028883226215839386,
+        "surprise": 0.0014348478289321065,
+        "anger": 0.02729981765151024,
+        "sadness": 0.013845565728843212,
+        "disgust": 0.0006597454776056111,
+        "fear": 0.0017789565026760101
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I expect that i get a refund of $75 as i was given the bryant shirt i ordered for my sick cousin",
+      "strategy": [
+        "INTEREST"
+      ],
+      "emotion": {
+        "neutral": 0.0754191055893898,
+        "joy": 0.009976331144571304,
+        "surprise": 0.0009077806025743484,
+        "anger": 0.8945600390434265,
+        "sadness": 0.013563365675508976,
+        "disgust": 0.004190455656498671,
+        "fear": 0.00138289132155478
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "What are your reasons for a refund?",
+      "strategy": [
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.3934060037136078,
+        "joy": 0.007695895619690418,
+        "surprise": 0.006402839440852404,
+        "anger": 0.5796195864677429,
+        "sadness": 0.00511869415640831,
+        "disgust": 0.005884177517145872,
+        "fear": 0.001872847555205226
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "It was clearly stated on the site that i will get a Bryant's customized shirt but a different shirt was sent",
+      "strategy": [
+        "RIGHTS"
+      ],
+      "emotion": {
+        "neutral": 0.01902431808412075,
+        "joy": 0.007264386396855116,
+        "surprise": 0.0010833890410140157,
+        "anger": 0.9647774696350098,
+        "sadness": 0.0037807824555784464,
+        "disgust": 0.0030765081755816936,
+        "fear": 0.0009931246750056744
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I understand. but we can reach an agreement",
+      "strategy": [
+        "INTEREST",
+        "POSITIVE EXPECTATIONS"
+      ],
+      "emotion": {
+        "neutral": 0.2863442599773407,
+        "joy": 0.006089509464800358,
+        "surprise": 0.0005462639965116978,
+        "anger": 0.5549942255020142,
+        "sadness": 0.14693647623062134,
+        "disgust": 0.002625240944325924,
+        "fear": 0.00246413447894156
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will be glad if i get the refund as i really need the exact shirt i ordered",
+      "strategy": [
+        "INTEREST"
+      ],
+      "emotion": {
+        "neutral": 0.0529920794069767,
+        "joy": 0.02072232961654663,
+        "surprise": 0.0008319178014062345,
+        "anger": 0.908219039440155,
+        "sadness": 0.01184805203229189,
+        "disgust": 0.0037444301415234804,
+        "fear": 0.0016421835171058774
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "No problem. I'm evaluating the options",
+      "strategy": [
+        "RESIDUAL",
+        "FACTS"
+      ],
+      "emotion": {
+        "neutral": 0.9199562072753906,
+        "joy": 0.0066629075445234776,
+        "surprise": 0.00048313650768250227,
+        "anger": 0.043438829481601715,
+        "sadness": 0.025293536484241486,
+        "disgust": 0.0015956502174958587,
+        "fear": 0.0025697071105241776
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will take down my negative review so i don't affect the business in any way. I hope i will get my refund",
+      "strategy": [
+        "PROPOSAL",
+        "INTEREST"
+      ],
+      "emotion": {
+        "neutral": 0.06859700381755829,
+        "joy": 0.012410075403749943,
+        "surprise": 0.000587961170822382,
+        "anger": 0.8959607481956482,
+        "sadness": 0.016327248886227608,
+        "disgust": 0.004422086291015148,
+        "fear": 0.0016948169795796275
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "ok that seems very good to me. so we all win",
+      "strategy": [
+        "RESIDUAL",
+        "POSITIVE EXPECTATIONS"
+      ],
+      "emotion": {
+        "neutral": 0.12726904451847076,
+        "joy": 0.7536248564720154,
+        "surprise": 0.0012977402657270432,
+        "anger": 0.10884812474250793,
+        "sadness": 0.00490100821480155,
+        "disgust": 0.0020420351065695286,
+        "fear": 0.0020172633230686188
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thanks",
+      "strategy": [
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.8478233814239502,
+        "joy": 0.04367780685424805,
+        "surprise": 0.001140194945037365,
+        "anger": 0.01137258019298315,
+        "sadness": 0.09301307052373886,
+        "disgust": 0.0018357282970100641,
+        "fear": 0.0011371889850124717
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "anything else I can help you with",
+      "strategy": [
+        "PROCEDURAL"
+      ],
+      "emotion": {
+        "neutral": 0.9097775220870972,
+        "joy": 0.00893736258149147,
+        "surprise": 0.0005070881452411413,
+        "anger": 0.06719454377889633,
+        "sadness": 0.011663645505905151,
+        "disgust": 0.0007292232476174831,
+        "fear": 0.0011905498104169965
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will apologize to the seller and i hope he retracts bad review of me too. That will be all. thanks",
+      "strategy": [
+        "PROPOSAL",
+        "RESIDUAL",
+        "RESIDUAL"
+      ],
+      "emotion": {
+        "neutral": 0.4211954176425934,
+        "joy": 0.10594956576824188,
+        "surprise": 0.0025489432737231255,
+        "anger": 0.42775484919548035,
+        "sadness": 0.02506501041352749,
+        "disgust": 0.012016400694847107,
+        "fear": 0.005469875410199165
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "perfect issue a refund now. something else I can help you with",
+      "strategy": [
+        "CONCESSION",
+        "PROCEDURAL"
+      ],
+      "emotion": {
+        "neutral": 0.5660694241523743,
+        "joy": 0.007638869341462851,
+        "surprise": 0.0006167480023577809,
+        "anger": 0.41667017340660095,
+        "sadness": 0.005986986681818962,
+        "disgust": 0.0017966227605938911,
+        "fear": 0.0012212030123919249
+      }
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller didn't apologize, and buyer did apologize.",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.860004723072052,
+        "joy": 0.04003329575061798,
+        "surprise": 0.0012307694414630532,
+        "anger": 0.07835259288549423,
+        "sadness": 0.005949379876255989,
+        "disgust": 0.012305465526878834,
+        "fear": 0.0021239635534584522
+      }
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal",
+      "strategy": [
+        "NULL"
+      ],
+      "emotion": {
+        "neutral": 0.8665887117385864,
+        "joy": 0.01330866850912571,
+        "surprise": 0.001321658375672996,
+        "anger": 0.0971061959862709,
+        "sadness": 0.019282618537545204,
+        "disgust": 0.0015101450262591243,
+        "fear": 0.0008821552619338036
+      }
+    }
+  ]
+}
