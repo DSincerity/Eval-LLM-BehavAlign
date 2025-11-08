@@ -8,6 +8,7 @@
 **"Evaluating Behavioral Alignment in Conflict Dialogue: A Multi-Dimensional Comparison of LLM Agents and Humans"**
 
 > **Authors**: Deuksin Kwon, Kaleen Shrestha, Bin Han, Elena Hayoung Lee, Gale Lucas
+>
 > **Paper Link**: [ACL Anthology](https://aclanthology.org/2025.emnlp-main.828/) | **Pages**: 16377-16391
 
 ---
