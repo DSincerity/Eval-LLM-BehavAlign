@@ -1,17 +1,22 @@
-# Behavioral Alignment in LLM Negotiations
+# Behavioral Alignment between LLMs and Humans in Dispute Scenario
 
-[![EMNLP 2025](https://img.shields.io/badge/EMNLP-2025-blue)](https://aclanthology.org/2025.emnlp-main.828/)
-[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
+[![EMNLP 2025](https://img.shields.io/badge/EMNLP-2025-blue.svg)](https://aclanthology.org/2025.emnlp-main.828/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
-**Official implementation** for EMNLP 2025 paper:
+This repository contains the official implementation of our EMNLP 2025 paper on **behavioral alignment**, in which we compare and evaluate human–LLM alignment in conflict/negotiation dialogues across three dimensions: **linguistic**, **emotional**, and **strategic** behavior.
 
-**"Evaluating Behavioral Alignment in Conflict Dialogue: A Multi-Dimensional Comparison of LLM Agents and Humans"**
+## 📄 Paper Information
 
-> **Authors**: Deuksin Kwon, Kaleen Shrestha, Bin Han, Elena Hayoung Lee, Gale Lucas
->
-> **Paper Link**: [ACL Anthology](https://aclanthology.org/2025.emnlp-main.828/) | **Pages**: 16377-16391
+**Title:** [Evaluating Behavioral Alignment in Conflict Dialogue: A Multi-Dimensional Comparison of LLM Agents and Humans](https://aclanthology.org/2025.emnlp-main.828/)
+
+**Authors:** Deuksin Kwon, Kaleen Shrestha, Bin Han, Elena Hayoung Lee, Gale Lucas
+**Conference:** Main Conference of EMNLP 2025
+**Pages:** 16377–16391
 
 ---
+<div align="center">
+<img src="img/intro_fig.png" alt="Behavioral Alignment Evaluation Framework Overview" width="350"/>
+</div>
 
 ## Abstract
 
