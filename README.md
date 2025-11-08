@@ -10,8 +10,9 @@ This repository contains the official implementation of our EMNLP 2025 paper on 
 **Title:** [Evaluating Behavioral Alignment in Conflict Dialogue: A Multi-Dimensional Comparison of LLM Agents and Humans](https://aclanthology.org/2025.emnlp-main.828/)
 
 **Authors:** Deuksin Kwon, Kaleen Shrestha, Bin Han, Elena Hayoung Lee, Gale Lucas
+
 **Conference:** Main Conference of EMNLP 2025
-**Pages:** 16377–16391
+
 
 ---
 <div align="center">
